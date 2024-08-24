@@ -16,7 +16,7 @@ Mi nombre es Andrés Felipe Lozada Manzano, soy un desarrollador apasionado por 
 Cuento con un título de Técnico en Sistemas, lo que me ha proporcionado una sólida base en programación, gestión de bases de datos y redes. Esta formación técnica se complementa con mi experiencia autodidacta, permitiéndome abordar proyectos desde una perspectiva integral, que abarca desde la conceptualización hasta la implementación final.
 
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
-A lo largo de mi carrera, he trabajado en varios proyectos en solitario, lo que me ha permitido desarrollar una fuerte capacidad para resolver problemas de manera independiente y gestionar todo el ciclo de vida del desarrollo de software. Mi objetivo es seguir avanzando como desarrollador, contribuyendo con soluciones que no solo cumplan con las expectativas, sino que también marquen una diferencia significativa en el mundo digital.
+He trabajado en varios proyectos en solitario, lo que me ha permitido desarrollar una fuerte capacidad para resolver problemas de manera independiente y gestionar todo el ciclo de vida del desarrollo de software. Mi objetivo es seguir avanzando como desarrollador, contribuyendo con soluciones que no solo cumplan con las expectativas, sino que también marquen una diferencia significativa en el mundo digital.
 <br>
 
 <br>
