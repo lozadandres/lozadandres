@@ -72,7 +72,8 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">NFT Portal</h3>
+      <h3 align="center">Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-
+Public</h3>
         <br />
         <a target="_blank" href="http://nftportalbyrahul.netlify.app">
             <img src="images/nftportal.jpg" width="100%" alt="NFT App"/>
