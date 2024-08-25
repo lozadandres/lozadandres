@@ -55,6 +55,9 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
       <td><img src="https://skillicons.dev/icons?i=git" width="80"></td>
       <td><img src="https://skillicons.dev/icons?i=vscode" width="80"></td>
       <td><img src="https://skillicons.dev/icons?i=anaconda" width="80"></td>
+      <td><img src="https://skillicons.dev/icons?i=sketchup" width="80"></td>
+      <td><img src="https://skillicons.dev/icons?i=figma" width="80"></td>
+      <td><img src="https://skillicons.dev/icons?i=xd" width="80"></td>
       
   </tr>
 
