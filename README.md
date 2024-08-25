@@ -88,7 +88,7 @@ Public</h3>
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, React, Sass, & Solidity</strong> - NFT Platform :  A Smart contract in Solidity and a Web3 app to Mint your own NFT collection. Frontend made with React to let users connect their wallets and interact with the NFTs.</p>
+        <p><strong>El proyecto "Retro Super Snake" es una implementación moderna del clásico juego de la serpiente, utilizando Pygame, una biblioteca para desarrollo de videojuegos en Python. El juego incluye características adicionales como alimentos especiales, obstáculos, y un sistema de puntuación.</p>
     </td>
     
   </tr>
