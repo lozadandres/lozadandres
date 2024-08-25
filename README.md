@@ -88,7 +88,7 @@ Public</h3>
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
       </p>
-	<center><p><strong>El proyecto "Retro Super Snake" es una implementación moderna del clásico juego de la serpiente, utilizando Pygame, una biblioteca para desarrollo de videojuegos en Python. El juego incluye características adicionales como alimentos especiales, obstáculos, y un sistema de puntuación.</p></center>
+	<p  align="center"><strong>El proyecto "Retro Super Snake" es una implementación moderna del clásico juego de la serpiente, utilizando Pygame, una biblioteca para desarrollo de videojuegos en Python. El juego incluye características adicionales como alimentos especiales, obstáculos, y un sistema de puntuación.</p>
     </td>
     
   </tr>
