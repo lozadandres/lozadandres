@@ -75,13 +75,13 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
       <h3 align="center">Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-
 Public</h3>
         <br />
-        <a target="_blank" href="http://nftportalbyrahul.netlify.app">
+        <a target="_blank" href="#">
             <img src="https://private-user-images.githubusercontent.com/172821184/339798857-8c91a017-07e7-4b06-80ed-949593fe2820.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ1NTM3NTMsIm5iZiI6MTcyNDU1MzQ1MywicGF0aCI6Ii8xNzI4MjExODQvMzM5Nzk4ODU3LThjOTFhMDE3LTA3ZTctNGIwNi04MGVkLTk0OTU5M2ZlMjgyMC5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDgyNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA4MjVUMDIzNzMzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZDJkZmY0ZDhkNDJlZWIxZjk1NGM4M2RlZmI3YzMzNTg1NjM1NDM0YzVhODViYzA0YjI1NTI5ZDZhODlhYjQ3OCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.sQDpQpJTYUo26AbCQ_mRFtoH3xAYGZ6GfuIn0C91epc" width="100%" height="500" alt="NFT App"/>
         </a>
         <br />
         <p align="center">
           <br>
-  <a href="https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbEpsaW1McjZ6RHNGOURSMDFON2p2dTgyM2w0QXxBQ3Jtc0tsU0NQWEdnWFFjUWUwWG1qZ294SVZWNWlGUEFMVEZmemhGZkJ1NlI3amI0NDhrYXVsVjh5eHFQZElKblhvYzBJd2tsR2FWSVEwSVl5czhYRUtPTVdyWFc3RWZkellwemk2MDJ5b2E1UE4wZHFmaWs4NA&q=https%3A%2F%2Fgithub.com%2Flozadandres%2FJuego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-%2Ftree%2Fmain" target="_blank">
+  <a href="https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>  
   <a href="https://youtu.be/J3YhwaTR3kg" target="_blank">
