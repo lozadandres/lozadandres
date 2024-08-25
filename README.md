@@ -22,29 +22,44 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <h3># Front-End</h3>
-<h3># Back-End</h3>
-<h3># Herramientas de Desarrollo</h3>
 <table>
   <tr>
-      <td><img src="https://skillicons.dev/icons?i=html" width="200"></td>
-      <td><img src="https://skillicons.dev/icons?i=css" width="200"></td>
-      <td><img src="https://skillicons.dev/icons?i=js" width="200"></td>
-      <td><img src="https://skillicons.dev/icons?i=py" width="200"></td>
-      <td><img src="https://skillicons.dev/icons?i=cpp" width="200"></td>
-      <td><img src="https://skillicons.dev/icons?i=bootstrap" width="200"></td>
-      <td><img src="https://skillicons.dev/icons?i=qt" width="200"></td>
-      <td><img src="https://skillicons.dev/icons?i=sass" width="200"></td>
-      <td><img src="https://skillicons.dev/icons?i=vscode" width="200"></td>
-      <td><img src="https://skillicons.dev/icons?i=anaconda" width="200"></td>
-      <td><img src="https://skillicons.dev/icons?i=angular" width="200"></td>
-  </tr>
-
-  <tr>
-      <td><img src="https://skillicons.dev/icons?i=jquery" width="200"></td>
-      <td><img src="https://skillicons.dev/icons?i=git" width="200"></td>
+      <td><img src="https://skillicons.dev/icons?i=html" width="80"></td>
+      <td><img src="https://skillicons.dev/icons?i=css" width="80"></td>
+      <td><img src="https://skillicons.dev/icons?i=js" width="80"></td>
+      <td><img src="https://skillicons.dev/icons?i=bootstrap" width="80"></td>
+      <td><img src="https://skillicons.dev/icons?i=sass" width="80"></td>
+      <td><img src="https://skillicons.dev/icons?i=angular" width="80"></td>
+      <td><img src="https://skillicons.dev/icons?i=jquery" width="80"></td>
   </tr>
 
 </table>
+<h3># Back-End</h3>
+<table>
+  <tr>
+      <td><img src="https://skillicons.dev/icons?i=py" width="80"></td>
+      <td><img src="https://skillicons.dev/icons?i=cpp" width="80"></td>
+  </tr>
+
+</table>
+<h3># Desarrollo de Aplicaciones de Escritorio</h3>
+<table>
+  <tr>
+     <td><img src="https://skillicons.dev/icons?i=qt" width="80"></td>
+  </tr>
+
+</table>  
+<h3># Herramientas de Desarrollo</h3>
+<table>
+  <tr>
+      <td><img src="https://skillicons.dev/icons?i=git" width="80"></td>
+      <td><img src="https://skillicons.dev/icons?i=vscode" width="80"></td>
+      <td><img src="https://skillicons.dev/icons?i=anaconda" width="80"></td>
+      
+  </tr>
+
+</table>
+<h2>Proyectos Destacados</h2>
 <br/>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
