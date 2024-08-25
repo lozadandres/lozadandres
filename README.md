@@ -81,11 +81,11 @@ Public</h3>
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/rahulkarda/NFT-Portal" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbEpsaW1McjZ6RHNGOURSMDFON2p2dTgyM2w0QXxBQ3Jtc0tsU0NQWEdnWFFjUWUwWG1qZ294SVZWNWlGUEFMVEZmemhGZkJ1NlI3amI0NDhrYXVsVjh5eHFQZElKblhvYzBJd2tsR2FWSVEwSVl5czhYRUtPTVdyWFc3RWZkellwemk2MDJ5b2E1UE4wZHFmaWs4NA&q=https%3A%2F%2Fgithub.com%2Flozadandres%2FJuego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-%2Ftree%2Fmain" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>  
-  <a href="http://nftportalbyrahul.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://youtu.be/J3YhwaTR3kg" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
       </p>
         <p><strong>El proyecto "Retro Super Snake" es una implementación moderna del clásico juego de la serpiente, utilizando Pygame, una biblioteca para desarrollo de videojuegos en Python. El juego incluye características adicionales como alimentos especiales, obstáculos, y un sistema de puntuación.</p>
