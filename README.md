@@ -21,6 +21,9 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
 
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<h3># Front-End</h3>
+<h3># Back-End</h3>
+<h3># Herramientas de Desarrollo</h3>
 <table>
   <tr>
       <td><img src="https://skillicons.dev/icons?i=html" width="200"></td>
@@ -35,6 +38,7 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
       <td><img src="https://skillicons.dev/icons?i=anaconda" width="200"></td>
       <td><img src="https://skillicons.dev/icons?i=angular" width="200"></td>
   </tr>
+
   <tr>
       <td><img src="https://skillicons.dev/icons?i=jquery" width="200"></td>
       <td><img src="https://skillicons.dev/icons?i=git" width="200"></td>
