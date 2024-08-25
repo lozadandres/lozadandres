@@ -1,6 +1,5 @@
-<h1 align="center"> 👋 Hola, Bienvenidos a mi perfil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="#">Desarrollador de Software</a>
+  <a href="https://github.com/tu-usuario"><img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hola%20a%20todos!;¡Bienvenido%20a%20mi%20perfil!;Desarrollador%20Web%20Front-End;Apasionado%20por%20diseños;%20limpios%20e%20intuitivos;10%Siempre%20aprendiendo%20nuevas%20tecnologías&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 
