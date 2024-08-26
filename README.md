@@ -68,7 +68,7 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
       <td><img src="https://skillicons.dev/icons?i=sketchup" width="50"></td>
       <td><img src="https://skillicons.dev/icons?i=figma" width="50"></td>
       <td><img src="https://skillicons.dev/icons?i=xd" width="50"></td>
-      <td><img src="https://logos-world.net/wp-content/uploads/2021/02/Trello-Emblem.png" width="50"></td>
+      <td><img src="https://cdn-icons-png.flaticon.com/512/174/174874.png" width="50"></td>
       
   </tr>
 
