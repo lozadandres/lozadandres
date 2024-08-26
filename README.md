@@ -38,6 +38,11 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
   <tr>
       <td><img src="https://skillicons.dev/icons?i=py" width="50"></td>
       <td><img src="https://skillicons.dev/icons?i=cpp" width="50"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
   </tr>
 
 </table>
@@ -45,6 +50,12 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
 <table>
   <tr>
      <td><img src="https://skillicons.dev/icons?i=qt" width="50"></td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
   </tr>
 
 </table>  
@@ -76,7 +87,7 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
 Public</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="https://private-user-images.githubusercontent.com/172821184/339798857-8c91a017-07e7-4b06-80ed-949593fe2820.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ2NDM5NzcsIm5iZiI6MTcyNDY0MzY3NywicGF0aCI6Ii8xNzI4MjExODQvMzM5Nzk4ODU3LThjOTFhMDE3LTA3ZTctNGIwNi04MGVkLTk0OTU5M2ZlMjgyMC5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDgyNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA4MjZUMDM0MTE3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NTE0ZWEzYjVjMWYyNmFhNzNjZjIwMTFmOWM0NDVmZmJhNzA5YTg5Y2ZhZTM3N2NkZTBmYzFkYjIxNDQ3N2I3NyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.8QOQknvkHt_Klc5x-Ixcim_R-NPH7LUFE79dBA8j_tc" width="100%" height="500" alt="NFT App"/>
+            <img src="https://private-user-images.githubusercontent.com/172821184/339798857-8c91a017-07e7-4b06-80ed-949593fe2820.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ2NDM5NzcsIm5iZiI6MTcyNDY0MzY3NywicGF0aCI6Ii8xNzI4MjExODQvMzM5Nzk4ODU3LThjOTFhMDE3LTA3ZTctNGIwNi04MGVkLTk0OTU5M2ZlMjgyMC5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDgyNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA4MjZUMDM0MTE3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NTE0ZWEzYjVjMWYyNmFhNzNjZjIwMTFmOWM0NDVmZmJhNzA5YTg5Y2ZhZTM3N2NkZTBmYzFkYjIxNDQ3N2I3NyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.8QOQknvkHt_Klc5x-Ixcim_R-NPH7LUFE79dBA8j_tc" width="100%" height="500" alt="App"/>
         </a>
         <br />
         <p align="center">
