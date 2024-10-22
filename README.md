@@ -118,7 +118,7 @@ Public</h3>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-	<a style="margin-left: 10px;"  target="_blank" href="">
+	<a style="margin-left: 10px;"  target="_blank" href="https://github.com/lozadandres">
 		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
         <a style="margin-left: 10px;" target="_blank" href="">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
