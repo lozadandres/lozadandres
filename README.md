@@ -126,7 +126,7 @@ Public</h3>
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a style="margin-left: 10px;" target="_blank" href="">
 		<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-	<a style="margin-left: 10px;" target="_blank" href="">
+	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@ANDRESFELIPELOZADAMANZANO">
 		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 	<a style="margin-left: 5px;" target="_blank" href="">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
