@@ -122,7 +122,7 @@ Public</h3>
 		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
         <a style="margin-left: 10px;" target="_blank" href="">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-        <a style="margin-left: 10px;" target="_blank" href="www.linkedin.com/in/andrés-felipe-lozada-manzano-0b9ba31b0">
+        <a style="margin-left: 10px;" target="_blank" href="in/andrés-felipe-lozada-manzano-0b9ba31b0">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a style="margin-left: 10px;" target="_blank" href="">
 		<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
