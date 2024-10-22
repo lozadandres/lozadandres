@@ -120,7 +120,7 @@ Public</h3>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 	<a style="margin-left: 10px;"  target="_blank" href="https://github.com/lozadandres">
 		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
+        <a style="margin-left: 10px;" target="_blank" href="mailto:lozadaandres955@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/andr%C3%A9s-felipe-lozada-manzano-0b9ba31b0/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
