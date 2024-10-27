@@ -72,7 +72,7 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
       <td><img src="https://skillicons.dev/icons?i=xd" width="50"></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/174/174874.png" width="50"></td>
       <td><img src="https://apps.pardus.org.tr/files/pngicons/draw.io.png" width="50"></td>
-      
+      <td><img src="https://skillicons.dev/icons?i=postman" width="50"></td>
   </tr>
 
 </table>
