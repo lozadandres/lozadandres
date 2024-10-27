@@ -60,6 +60,17 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
      <td></td>
   </tr>
 </table>  
+<h3># Cloud Servers</h3>
+<table>
+  <tr>
+     <td><img src="https://skillicons.dev/icons?i=azure" width="50"></td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+  </tr>
+</table>
 <h3># Desarrollo de Aplicaciones de Escritorio</h3>
 <table>
   <tr>
