@@ -39,7 +39,7 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
       <td><img src="https://skillicons.dev/icons?i=py" width="50"></td>
       <td><img src="https://skillicons.dev/icons?i=cpp" width="50"></td>
       <td><img src="https://skillicons.dev/icons?i=nodejs" width="50"></td>
-      <td></td>
+      <td><img src="https://skillicons.dev/icons?i=express" width="50"></td>
       <td></td>
       <td></td>
       <td></td>
