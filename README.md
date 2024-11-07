@@ -10,7 +10,7 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 
-Mi nombre es Andrés Felipe Lozada Manzano, soy un desarrollador apasionado por la creación de aplicaciones web limpias y con funcionalidades intuitivas. Me motiva transformar ideas en productos digitales, aplicando soluciones creativas que mejoren la experiencia del usuario. Mi curiosidad constante me lleva a aprender nuevas habilidades, explorar herramientas innovadoras y profundizar en conceptos tecnológicos.
+Mi nombre es Andrés Felipe Lozada Manzano, soy un desarrollador apasionado por la creación de aplicaciones limpias y con funcionalidades intuitivas. Me motiva transformar ideas en productos digitales, aplicando soluciones creativas que mejoren la experiencia del usuario. Mi curiosidad constante me lleva a aprender nuevas habilidades, explorar herramientas innovadoras y profundizar en conceptos tecnológicos.
 
 Cuento con un título de Técnico en Sistemas, lo que me ha proporcionado una sólida base en programación, gestión de bases de datos y redes. Esta formación técnica se complementa con mi experiencia autodidacta, permitiéndome abordar proyectos desde una perspectiva integral, que abarca desde la conceptualización hasta la implementación final.
 
