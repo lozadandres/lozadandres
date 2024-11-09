@@ -98,8 +98,7 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-
-Public</h3>
+      <h3 align="center">Juego-Retro-Super-Snake-con-POO-en-Python-Univalle-Tuluá</h3>
         <br />
         <a target="_blank" href="#">
             <img src="https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-/blob/3b417fc7ba1c439053cacf5c793e6332a694240c/Juego%20Retro%20Super%20Snake%20con%20POO%20en%20Python/assets/imagenes/339798857-8c91a017-07e7-4b06-80ed-949593fe2820.jpeg" width="100%" height="500" alt="App"/>
