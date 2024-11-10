@@ -24,34 +24,35 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
 <table>
   <tr>
       <td><img src="https://skillicons.dev/icons?i=html" width="50"><br><p>HTML</p></td>
-      <td><img src="https://skillicons.dev/icons?i=css" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=js" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=bootstrap" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=sass" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=angular" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=jquery" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=react" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=npm" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=css" width="50"><br><p>CSS</p></td>
+      <td><img src="https://skillicons.dev/icons?i=js" width="50"><br><p>JavaScript</p></td>
+      <td><img src="https://skillicons.dev/icons?i=bootstrap" width="50"><br><p>Bootstrap</p></td>
+      <td><img src="https://skillicons.dev/icons?i=sass" width="50"><br><p>Sass</p></td>
+      <td><img src="https://skillicons.dev/icons?i=angular" width="50"><br><p>AngularJS</p></td>
+      <td><img src="https://skillicons.dev/icons?i=jquery" width="50"><br><p>jQuery</p></td>
+      <td><img src="https://skillicons.dev/icons?i=react" width="50"><br><p>React</p></td>
+      <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
   </tr>
-
 </table>
+
 <h3># Back-End</h3>
 <table>
   <tr>
-      <td><img src="https://skillicons.dev/icons?i=py" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=cpp" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=express" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=py" width="50"><br><p>Python</p></td>
+      <td><img src="https://skillicons.dev/icons?i=cpp" width="50"><br><p>C++</p></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs" width="50"><br><p>Node.js</p></td>
+      <td><img src="https://skillicons.dev/icons?i=express" width="50"><br><p>Express</p></td>
       <td></td>
       <td></td>
       <td></td>
   </tr>
 </table>
+
 <h3># Databases</h3>
 <table>
   <tr>
-     <td><img src="https://skillicons.dev/icons?i=postgres" width="50"></td>
-     <td><img src="https://skillicons.dev/icons?i=mongodb" width="50"></td>
+     <td><img src="https://skillicons.dev/icons?i=postgres" width="50"><br><p>PostgreSQL</p></td>
+     <td><img src="https://skillicons.dev/icons?i=mongodb" width="50"><br><p>MongoDB</p></td>
      <td></td>
      <td></td>
      <td></td>
@@ -59,10 +60,11 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
      <td></td>
   </tr>
 </table>  
+
 <h3># Cloud Servers</h3>
 <table>
   <tr>
-     <td><img src="https://skillicons.dev/icons?i=azure" width="50"></td>
+     <td><img src="https://skillicons.dev/icons?i=azure" width="50"><br><p>Azure</p></td>
      <td></td>
      <td></td>
      <td></td>
@@ -74,19 +76,18 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
 <h3># Herramientas de Desarrollo</h3>
 <table>
   <tr>
-      <td><img src="https://skillicons.dev/icons?i=git" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=vscode" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=anaconda" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=sketchup" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=figma" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=xd" width="50"></td>
-      <td><img src="https://cdn-icons-png.flaticon.com/512/174/174874.png" width="50"></td>
-      <td><img src="https://apps.pardus.org.tr/files/pngicons/draw.io.png" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=postman" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=linux" width="50"></td>
-      <td><img src="https://skillicons.dev/icons?i=github" width="50"></td>
+      <td><img src="https://skillicons.dev/icons?i=git" width="50"><br><p>Git</p></td>
+      <td><img src="https://skillicons.dev/icons?i=vscode" width="50"><br><p>Visual Studio Code</p></td>
+      <td><img src="https://skillicons.dev/icons?i=anaconda" width="50"><br><p>Anaconda</p></td>
+      <td><img src="https://skillicons.dev/icons?i=sketchup" width="50"><br><p>SketchUp</p></td>
+      <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
+      <td><img src="https://skillicons.dev/icons?i=xd" width="50"><br><p>Adobe XD</p></td>
+      <td><img src="https://cdn-icons-png.flaticon.com/512/174/174874.png" width="50"><br><p>Trello</p></td>
+      <td><img src="https://apps.pardus.org.tr/files/pngicons/draw.io.png" width="50"><br><p>draw.io</p></td>
+      <td><img src="https://skillicons.dev/icons?i=postman" width="50"><br><p>Postman</p></td>
+      <td><img src="https://skillicons.dev/icons?i=linux" width="50"><br><p>Linux</p></td>
+      <td><img src="https://skillicons.dev/icons?i=github" width="50"><br><p>GitHub</p></td>
   </tr>
-
 </table>
 
 <p  align="center">
