@@ -77,7 +77,7 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
 <table>
   <tr>
       <td><img src="https://skillicons.dev/icons?i=git" width="50"><br><p>Git</p></td>
-      <td><img src="https://skillicons.dev/icons?i=vscode" width="50"><br><p>Visual Studio Code</p></td>
+      <td><img src="https://skillicons.dev/icons?i=vscode" width="50"><br><p>VS Code</p></td>
       <td><img src="https://skillicons.dev/icons?i=anaconda" width="50"><br><p>Anaconda</p></td>
       <td><img src="https://skillicons.dev/icons?i=sketchup" width="50"><br><p>SketchUp</p></td>
       <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
