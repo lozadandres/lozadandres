@@ -47,6 +47,7 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
       <td></td>
   </tr>
 </table>
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,nodejs,figma&theme=light)](https://skillicons.dev)
 <h3># Databases</h3>
 <table>
   <tr>
