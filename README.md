@@ -22,7 +22,7 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <h3># Front-End</h3>
 <table>
-  <tr>
+  <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=html" width="50"><br><p>HTML</p></td>
       <td><img src="https://skillicons.dev/icons?i=css" width="50"><br><p>CSS</p></td>
       <td><img src="https://skillicons.dev/icons?i=js" width="50"><br><p>JavaScript</p></td>
