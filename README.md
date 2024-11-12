@@ -37,7 +37,7 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
 
 <h3># Back-End</h3>
 <table>
-  <tr>
+  <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=py" width="50"><br><p>Python</p></td>
       <td><img src="https://skillicons.dev/icons?i=cpp" width="50"><br><p>C++</p></td>
       <td><img src="https://skillicons.dev/icons?i=nodejs" width="50"><br><p>Node.js</p></td>
@@ -50,7 +50,7 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
 
 <h3># Databases</h3>
 <table>
-  <tr>
+  <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=postgres" width="50"><br><p>PostgreSQL</p></td>
      <td><img src="https://skillicons.dev/icons?i=mongodb" width="50"><br><p>MongoDB</p></td>
      <td></td>
@@ -63,7 +63,7 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
 
 <h3># Cloud Servers</h3>
 <table>
-  <tr>
+  <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=azure" width="50"><br><p>Azure</p></td>
      <td></td>
      <td></td>
@@ -75,13 +75,13 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
 
 <h3># Herramientas de Desarrollo</h3>
 <table>
-  <tr>
+  <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=git" width="50"><br><p>Git</p></td>
       <td><img src="https://skillicons.dev/icons?i=vscode" width="50"><br><p>VS Code</p></td>
       <td><img src="https://skillicons.dev/icons?i=anaconda" width="50"><br><p>Anaconda</p></td>
       <td><img src="https://skillicons.dev/icons?i=sketchup" width="50"><br><p>SketchUp</p></td>
       <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
-      <td><img src="https://skillicons.dev/icons?i=xd" width="50"><br><p>Adobe XD</p></td>
+      <td><img src="https://skillicons.dev/icons?i=xd" width="50"><br><p>Adobe</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/174/174874.png" width="50"><br><p>Trello</p></td>
       <td><img src="https://apps.pardus.org.tr/files/pngicons/draw.io.png" width="50"><br><p>draw.io</p></td>
       <td><img src="https://skillicons.dev/icons?i=postman" width="50"><br><p>Postman</p></td>
