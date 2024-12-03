@@ -79,7 +79,6 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
       <td><img src="https://skillicons.dev/icons?i=git" width="50"><br><p>Git</p></td>
       <td><img src="https://skillicons.dev/icons?i=vscode" width="50"><br><p>VS Code</p></td>
       <td><img src="https://skillicons.dev/icons?i=anaconda" width="50"><br><p>Anaconda</p></td>
-      <td><img src="https://skillicons.dev/icons?i=sketchup" width="50"><br><p>SketchUp</p></td>
       <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
       <td><img src="https://skillicons.dev/icons?i=xd" width="50"><br><p>Adobe</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/174/174874.png" width="50"><br><p>Trello</p></td>
