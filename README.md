@@ -32,6 +32,7 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
       <td><img src="https://skillicons.dev/icons?i=react" width="50"><br><p>React</p></td>
       <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
       <td><img src="https://skillicons.dev/icons?i=ts" width="50"><br><p>TypeScript</p></td>
+      <td><img src="https://skillicons.dev/icons?i=nextjs" width="50"><br><p>Next.js</p></td>
   </tr>
 </table>
 
