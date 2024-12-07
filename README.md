@@ -98,12 +98,12 @@
   </tr>
 </table>
 
-<p  align="center">
-	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-	<br>
-	<h2>⚙️ Proyectos Destacados</h2>
 
-<table bordercolor="#66b2b2">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+<h2>⚙️ Proyectos Destacados</h2>
+
+<table>
   
   <tr>
     <td width="50%" valign="top">
@@ -114,17 +114,19 @@
         </a>
         <br />
         <p align="center">
-          <br>
-  <a href="https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>  
-  <a href="https://youtu.be/J3YhwaTR3kg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
+		<br>
+		<a href="https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-" target="_blank">
+			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+		</a>  
+		<a href="https://youtu.be/J3YhwaTR3kg" target="_blank">
+			<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+		</a>
       </p>
-	<p  align="center"><strong>El proyecto "Retro Super Snake" es una implementación moderna del clásico juego de la serpiente, utilizando Pygame, una biblioteca para desarrollo de videojuegos en Python. El juego incluye características adicionales como alimentos especiales, obstáculos, y un sistema de puntuación.</p>
+      <p  align="center">
+	      <strong>El proyecto "Retro Super Snake" es una implementación moderna del clásico juego de la serpiente, utilizando Pygame, una biblioteca para desarrollo de videojuegos en Python. 
+		      El juego incluye características adicionales como alimentos especiales, obstáculos, y un sistema de puntuación.
+      </p>
     </td>
-    
   </tr>
   
 </table>
