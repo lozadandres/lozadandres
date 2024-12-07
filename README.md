@@ -27,8 +27,6 @@
 	contribuyendo con soluciones que no solo cumplan con las expectativas, sino que también marquen una diferencia significativa en el mundo digital.
 </p>
 
-<br><br>
-
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <h3># Front-End</h3>
 <table>
