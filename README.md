@@ -9,16 +9,28 @@
 
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
+<p>
+	Mi nombre es Andrés Felipe Lozada Manzano, soy un desarrollador apasionado por la creación de aplicaciones limpias y con funcionalidades intuitivas. Me motiva transformar ideas en productos digitales,
+	aplicando soluciones creativas que mejoren la experiencia del usuario. Mi curiosidad constante me lleva a aprender nuevas habilidades, explorar herramientas innovadoras y profundizar en conceptos
+	tecnológicos.
+</p>
 
-Mi nombre es Andrés Felipe Lozada Manzano, soy un desarrollador apasionado por la creación de aplicaciones limpias y con funcionalidades intuitivas. Me motiva transformar ideas en productos digitales, aplicando soluciones creativas que mejoren la experiencia del usuario. Mi curiosidad constante me lleva a aprender nuevas habilidades, explorar herramientas innovadoras y profundizar en conceptos tecnológicos.
+<p>
+	Cuento con un título de Técnico en Sistemas, lo que me ha proporcionado una sólida base en programación, gestión de bases de datos y redes. Actualmente, estoy estudiando Programación de Software,
+	fortaleciendo mis conocimientos y habilidades. Esta formación se complementa con mi experiencia autodidacta, permitiéndome abordar proyectos desde una perspectiva integral, que abarca desde la
+	conceptualización hasta la implementación final.
+</p>
 
-Cuento con un título de Técnico en Sistemas, lo que me ha proporcionado una sólida base en programación, gestión de bases de datos y redes. Esta formación técnica se complementa con mi experiencia autodidacta, permitiéndome abordar proyectos desde una perspectiva integral, que abarca desde la conceptualización hasta la implementación final.
+<p>
+	He trabajado en varios proyectos en solitario y de manera colaborativa, lo que me ha permitido desarrollar una fuerte capacidad para resolver problemas de manera independiente, 
+	así como habilidades de trabajo en equipo para gestionar el ciclo de vida del desarrollo de software. Mi objetivo es seguir avanzando como desarrollador, 
+	contribuyendo con soluciones que no solo cumplan con las expectativas, sino que también marquen una diferencia significativa en el mundo digital.
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
-He trabajado en varios proyectos en solitario, lo que me ha permitido desarrollar una fuerte capacidad para resolver problemas de manera independiente y gestionar todo el ciclo de vida del desarrollo de software. Mi objetivo es seguir avanzando como desarrollador, contribuyendo con soluciones que no solo cumplan con las expectativas, sino que también marquen una diferencia significativa en el mundo digital.
-<br>
 
-<br>
+<br><br>
+
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <h3># Front-End</h3>
 <table>
@@ -91,9 +103,9 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
 </table>
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-<h2>⚙️ Proyectos Destacados</h2>
+	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+	<br>
+	<h2>⚙️ Proyectos Destacados</h2>
 
 <table bordercolor="#66b2b2">
   
@@ -133,17 +145,23 @@ He trabajado en varios proyectos en solitario, lo que me ha permitido desarrolla
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 	<a style="margin-left: 10px;"  target="_blank" href="https://github.com/lozadandres">
-		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+	</a>
         <a style="margin-left: 10px;" target="_blank" href="mailto:lozadaandres955@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/andr%C3%A9s-felipe-lozada-manzano-0b9ba31b0/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
 	<a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/1270558508030492704">
-		<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+		<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+	</a>
 	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@ANDRESFELIPELOZADAMANZANO">
-		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+	</a>
 	<a style="margin-left: 5px;" target="_blank" href="https://x.com/LozadaManzano">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+	</a>
  </div>
 
 </p>
