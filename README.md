@@ -20,14 +20,12 @@
 	fortaleciendo mis conocimientos y habilidades. Esta formación se complementa con mi experiencia autodidacta, permitiéndome abordar proyectos desde una perspectiva integral, que abarca desde la
 	conceptualización hasta la implementación final.
 </p>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 <p>
 	He trabajado en varios proyectos en solitario y de manera colaborativa, lo que me ha permitido desarrollar una fuerte capacidad para resolver problemas de manera independiente, 
 	así como habilidades de trabajo en equipo para gestionar el ciclo de vida del desarrollo de software. Mi objetivo es seguir avanzando como desarrollador, 
 	contribuyendo con soluciones que no solo cumplan con las expectativas, sino que también marquen una diferencia significativa en el mundo digital.
 </p>
-
-<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
 <br><br>
 
