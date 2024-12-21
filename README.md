@@ -135,7 +135,7 @@
 <table>
 	<tr>
 		<td>
-			<img src="https://media.licdn.com/dms/image/v2/D4E2DAQFoMDhb3vD_IA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1734538873784?e=1735419600&v=beta&t=rRTWWeYUT3Z-QzwMZpjD3p6_hTEW4R_Rac7M9olXM1Q" width="500"/>
+			
 		</td>
 	</tr>
 </table>
