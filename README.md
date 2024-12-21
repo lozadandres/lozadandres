@@ -132,6 +132,13 @@
 </table>
 
 <h2>Reconocimientos y Certificaciones</h2>
+<table>
+	<tr>
+		<td>
+			<img src="https://media.licdn.com/dms/image/v2/D4E2DAQFoMDhb3vD_IA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1734538873784?e=1735419600&v=beta&t=rRTWWeYUT3Z-QzwMZpjD3p6_hTEW4R_Rac7M9olXM1Q"/>
+		</td>
+	</tr>
+</table>
 <br/>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
