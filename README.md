@@ -28,7 +28,7 @@
 </p>
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<h3># Front-End</h3>
+<h3># <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Front-End</h3>
 <table>
   <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=html" width="50"><br><p>HTML</p></td>
