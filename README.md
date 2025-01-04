@@ -51,9 +51,6 @@
       <td><img src="https://skillicons.dev/icons?i=cpp" width="50"><br><p>C++</p></td>
       <td><img src="https://skillicons.dev/icons?i=nodejs" width="50"><br><p>Node.js</p></td>
       <td><img src="https://skillicons.dev/icons?i=express" width="50"><br><p>Express</p></td>
-      <td></td>
-      <td></td>
-      <td></td>
   </tr>
 </table>
 
@@ -62,11 +59,6 @@
   <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=postgres" width="50"><br><p>PostgreSQL</p></td>
      <td><img src="https://skillicons.dev/icons?i=mongodb" width="50"><br><p>MongoDB</p></td>
-     <td></td>
-     <td></td>
-     <td></td>
-     <td></td>
-     <td></td>
   </tr>
 </table>  
 
@@ -74,11 +66,6 @@
 <table>
   <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=azure" width="50"><br><p>Azure</p></td>
-     <td></td>
-     <td></td>
-     <td></td>
-     <td></td>
-     <td></td>
   </tr>
 </table>
 
@@ -97,7 +84,6 @@
       <td><img src="https://skillicons.dev/icons?i=github" width="50"><br><p>GitHub</p></td>
   </tr>
 </table>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
