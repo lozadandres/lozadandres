@@ -147,6 +147,9 @@
 	<a style="margin-left: 5px;" target="_blank" href="https://x.com/LozadaManzano">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 	</a>
+	 <a style="margin-left: 5px;" target="_blank" href="https://www.instagram.com/andres_felipe_lozada_manzano/">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+	</a>
  </div>
 
 </p>
