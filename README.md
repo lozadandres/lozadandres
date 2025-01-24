@@ -62,13 +62,6 @@
   </tr>
 </table>  
 
-<h3># Cloud Servers</h3>
-<table>
-  <tr align="center">
-     <td><img src="https://skillicons.dev/icons?i=azure" width="50"><br><p>Azure</p></td>
-  </tr>
-</table>
-
 <h3># Herramientas de Desarrollo</h3>
 <table>
   <tr align="center">
