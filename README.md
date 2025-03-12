@@ -117,7 +117,7 @@
 <td width="25%" align="center">
     <p align="center">
         <a href="#" title="Go to Source">
-		<img align="center" width=100% src="https://github.com/lozadandres/Tienda-epicPlay-store-V4--frontend/blob/main/public/Captura%201.jpeg"   alt="Img" height="210" />
+		<img align="center" width=100% src="https://github.com/lozadandres/Tienda-epicPlay-store-V4--frontend/blob/main/public/Captura%202.jpeg" alt="Img" height="210" />
 	</a>
     </p>
     <h3 align="center">EpicPlay Store</h3>    
