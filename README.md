@@ -85,21 +85,17 @@
 <table>
   
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Juego-Retro-Super-Snake-con-POO-en-Python-Univalle-Tuluá</h3>
+    <td width="1100" valign="top">
+      <h3 align="center">MathSolver AI - Asistente matemático</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="" width="100%" height="500" alt="App"/>
+            <img src="https://github.com/lozadandres/MathSolver_AI/blob/master/frontend/public/Captura%201.png" width="100%" height="500" alt="App"/>
         </a>
         <br />
         <p align="center">
-		<br>
-		<a href="https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-" target="_blank">
+		<a href="https://github.com/lozadandres/MathSolver_AI" target="_blank">
 			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 		</a>  
-		<a href="https://youtu.be/J3YhwaTR3kg" target="_blank">
-			<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-		</a>
       </p>
     </td>
   </tr>
@@ -113,50 +109,26 @@
   <td width="25%" align="center">
     <p align="center">
         <a href="#" title="Go to Source">
-		<img align="center" width=100% src="https://github.com/lozadandres/Gesti-n-de-Eventos/blob/main/Captura.png" alt="Img" height="150" />
+		<img align="center" width=100% src="https://github.com/lozadandres/Gesti-n-de-Eventos/blob/main/Captura.png" alt="Img" height="210" />
 	</a>
     </p> 
-    <h3 align="center">App Gestión de Eventos</h3>
-    <p align="center">
-        <a href="https://github.com/lozadandres/Gesti-n-de-Eventos" target="_blank">
-		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-	<a href="https://www.youtube.com/watch?v=IyEfGd1T09Q&t=1s" target="_blank">
-		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-	</a>
-    </p>       
+    <h3 align="center">App Gestión de Eventos</h3>       
 </td>
 <td width="25%" align="center">
     <p align="center">
         <a href="#" title="Go to Source">
-		<img align="center" width=100% src="https://media.licdn.com/dms/image/v2/D4E2DAQGE8uVXvqLB0Q/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1735863440739e=1742338800&v=beta&t=ql8IkFadDeEPA7JAK3QtpshAv2o0rCNFFH6dsR6FmVw"   alt="Img" height="150" />
+		<img align="center" width=100% src="https://github.com/lozadandres/Tienda-epicPlay-store-V4--frontend/blob/main/public/Captura%201.jpeg"   alt="Img" height="210" />
 	</a>
     </p>
-    <h3 align="center">EpicPlay Store</h3>
-    <p align="center">
-        <a href="https://github.com/lozadandres/Tienda-epicPlay-store-V4--frontend" target="_blank">
-		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-	<a href="https://github.com/lozadandres/Tienda-epicPlay-store-V4-backend" target="_blank">
-		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-    </p>       
+    <h3 align="center">EpicPlay Store</h3>    
 </td>
   
 <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulua/refs/heads/main/Juego%20Retro%20Super%20Snake%20con%20POO%20en%20Python/assets/imagenes/339798857-8c91a017-07e7-4b06-80ed-949593fe2820.jpeg" alt="Img" /></a>
+        <img align="center" width=100% src="https://raw.githubusercontent.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulua/refs/heads/main/Juego%20Retro%20Super%20Snake%20con%20POO%20en%20Python/assets/imagenes/339798857-8c91a017-07e7-4b06-80ed-949593fe2820.jpeg" alt="Img" height="210" /></a>
     </p>
-    <h3 align="center">Juego-Retro-Super-Snake-con-POO-en-Python-Univalle-Tuluá</h3>
-    <p align="center">
-       <a href="https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-" target="_blank">
-	       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-	</a>  
-	<a href="https://youtu.be/J3YhwaTR3kg" target="_blank">
-		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-	</a>
-    </p>
+     <h3 align="center">Juego Retro Super Snake</h3>
 </td>
 
    
