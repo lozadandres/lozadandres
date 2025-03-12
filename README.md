@@ -115,7 +115,10 @@
         <p align="center">
 		<a href="https://github.com/lozadandres/Gesti-n-de-Eventos" target="_blank">
 			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-		</a>  
+		</a>
+		<a target="_blank" href="https://youtu.be/IyEfGd1T09Q?si=N-HIjXlcQPETZoH9">
+			<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+	        </a>
       </p>
     </td>
     <td width="1100" valign="top">
@@ -144,7 +147,10 @@
         <p align="center">
 		<a href="https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulua" target="_blank">
 			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-		</a>  
+		</a> 
+		<a target="_blank" href="https://youtu.be/J3YhwaTR3kg">
+			<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+	        </a>
       </p>
     </td>
   </tr>
