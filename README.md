@@ -89,7 +89,7 @@
       <h3 align="center">Juego-Retro-Super-Snake-con-POO-en-Python-Univalle-Tuluá</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-/blob/3b417fc7ba1c439053cacf5c793e6332a694240c/Juego%20Retro%20Super%20Snake%20con%20POO%20en%20Python/assets/imagenes/339798857-8c91a017-07e7-4b06-80ed-949593fe2820.jpeg" width="100%" height="500" alt="App"/>
+            <img src="" width="100%" height="500" alt="App"/>
         </a>
         <br />
         <p align="center">
@@ -111,52 +111,58 @@
 </table>
 
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
+        <a href="#" title="Go to Source">
+		<img align="center" width=100% src="https://github.com/lozadandres/Gesti-n-de-Eventos/blob/main/Captura.png" alt="Img" height="150 />
+        </a>
+    </p>
     <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://github.com/lozadandres/Gesti-n-de-Eventos" target="_blank">
+		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+	<a href="https://www.youtube.com/watch?v=IyEfGd1T09Q&t=1s" target="_blank">
+		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+	</a>
     </p>       
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
+        <a href="#" title="Go to Source">
+		<img align="center" width=100% src="https://media.licdn.com/dms/image/v2/D4E2DAQGE8uVXvqLB0Q/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1735863440739e=1742338800&v=beta&t=ql8IkFadDeEPA7JAK3QtpshAv2o0rCNFFH6dsR6FmVw"   alt="Img" height="150/>
+	</a>
+    </p>
+    <h3 align="center">EpicPlay Store</h3>
     <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://github.com/lozadandres/Tienda-epicPlay-store-V4--frontend" target="_blank">
+		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+	<a href="https://github.com/lozadandres/Tienda-epicPlay-store-V4-backend" target="_blank">
+		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
     </p>       
 </td>
   
-  <td width="25%" align="center">
+<td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
+        <img align="center" width=100% src="https://raw.githubusercontent.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulua/refs/heads/main/Juego%20Retro%20Super%20Snake%20con%20POO%20en%20Python/assets/imagenes/339798857-8c91a017-07e7-4b06-80ed-949593fe2820.jpeg" alt="Img" /></a>
+    </p>
+    <h3 align="center">Juego-Retro-Super-Snake-con-POO-en-Python-Univalle-Tuluá</h3>
     <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+       <a href="https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulu-" target="_blank">
+	       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+	</a>  
+	<a href="https://youtu.be/J3YhwaTR3kg" target="_blank">
+		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+	</a>
     </p>       
 </td>
 
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
+   
   
 </tr>
 </table>
