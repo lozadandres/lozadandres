@@ -113,7 +113,7 @@
 	<h3 align="center">App Gestión de Eventos</h3>
         <br />
         <p align="center">
-		<a href="https://github.com/lozadandres/MathSolver_AI" target="_blank">
+		<a href="https://github.com/lozadandres/Gesti-n-de-Eventos" target="_blank">
 			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 		</a>  
       </p>
@@ -126,9 +126,12 @@
 	<h3 align="center">EpicPlay Store</h3>
         <br />
         <p align="center">
-		<a href="https://github.com/lozadandres/MathSolver_AI" target="_blank">
+		<a href="https://github.com/lozadandres/Tienda-epicPlay-store-V4--frontend" target="_blank">
 			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-		</a>  
+		</a>
+		<a href="https://github.com/lozadandres/Tienda-epicPlay-store-V4-backend" target="_blank">
+			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+		</a>
       </p>
     </td>
     <td width="1100" valign="top">
