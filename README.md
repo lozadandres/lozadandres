@@ -113,9 +113,9 @@
   <td width="25%" align="center">
     <p align="center">
         <a href="#" title="Go to Source">
-		<img align="center" width=100% src="https://github.com/lozadandres/Gesti-n-de-Eventos/blob/main/Captura.png" alt="Img" height="150 />
+		<img align="center" width=100% src="https://github.com/lozadandres/Gesti-n-de-Eventos/blob/main/Captura.png" alt="Img" height="150" />
 	</a>
-    </p>
+    </p> 
     <h3 align="center">App Gestión de Eventos</h3>
     <p align="center">
         <a href="https://github.com/lozadandres/Gesti-n-de-Eventos" target="_blank">
@@ -129,7 +129,7 @@
 <td width="25%" align="center">
     <p align="center">
         <a href="#" title="Go to Source">
-		<img align="center" width=100% src="https://media.licdn.com/dms/image/v2/D4E2DAQGE8uVXvqLB0Q/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1735863440739e=1742338800&v=beta&t=ql8IkFadDeEPA7JAK3QtpshAv2o0rCNFFH6dsR6FmVw"   alt="Img" height="150/>
+		<img align="center" width=100% src="https://media.licdn.com/dms/image/v2/D4E2DAQGE8uVXvqLB0Q/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1735863440739e=1742338800&v=beta&t=ql8IkFadDeEPA7JAK3QtpshAv2o0rCNFFH6dsR6FmVw"   alt="Img" height="150" />
 	</a>
     </p>
     <h3 align="center">EpicPlay Store</h3>
