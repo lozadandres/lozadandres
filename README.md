@@ -102,40 +102,52 @@
   
 </table>
 
-<div id="proyectos">
-
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-        <a href="#" title="Go to Source">
-		<img align="center" width=100% src="https://github.com/lozadandres/Gesti-n-de-Eventos/blob/main/Captura.png" alt="Img" height="210" />
-	</a>
-    </p> 
-    <h3 align="center">App Gestión de Eventos</h3>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-        <a href="#" title="Go to Source">
-		<img align="center" width=100% src="https://github.com/lozadandres/Tienda-epicPlay-store-V4--frontend/blob/main/public/Captura%202.jpeg" alt="Img" height="210" />
-	</a>
-    </p>
-    <h3 align="center">EpicPlay Store</h3>    
-</td>
+<table>
   
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulua/refs/heads/main/Juego%20Retro%20Super%20Snake%20con%20POO%20en%20Python/assets/imagenes/339798857-8c91a017-07e7-4b06-80ed-949593fe2820.jpeg" alt="Img" height="210" /></a>
-    </p>
-     <h3 align="center">Juego Retro Super Snake</h3>
-</td>
-
-   
+  <tr>
+    <td width="1100" valign="top">
+        <br />
+        <a target="_blank" href="#">
+            <img src="https://github.com/lozadandres/Gesti-n-de-Eventos/blob/main/Captura.png" width="100%" height="200" alt="App"/>
+        </a>
+	<h3 align="center">App Gestión de Eventos</h3>
+        <br />
+        <p align="center">
+		<a href="https://github.com/lozadandres/MathSolver_AI" target="_blank">
+			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+		</a>  
+      </p>
+    </td>
+    <td width="1100" valign="top">
+        <br />
+        <a target="_blank" href="#">
+            <img src="https://github.com/lozadandres/Tienda-epicPlay-store-V4--frontend/blob/main/public/Captura%202.jpeg" width="100%" height="200" alt="App"/>
+        </a>
+	<h3 align="center">EpicPlay Store</h3>
+        <br />
+        <p align="center">
+		<a href="https://github.com/lozadandres/MathSolver_AI" target="_blank">
+			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+		</a>  
+      </p>
+    </td>
+    <td width="1100" valign="top">
+        <br />
+        <a target="_blank" href="#">
+            <img src="https://raw.githubusercontent.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulua/refs/heads/main/Juego%20Retro%20Super%20Snake%20con%20POO%20en%20Python/assets/imagenes/339798857-8c91a017-07e7-4b06-80ed-949593fe2820.jpeg" width="100%" height="200" alt="App"/>
+        </a>
+	<h3 align="center">Juego Retro Super Snake</h3>
+        <br />
+        <p align="center">
+		<a href="https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulua" target="_blank">
+			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+		</a>  
+      </p>
+    </td>
+  </tr>
   
-</tr>
 </table>
-  </div>
+
 
 <h2>Reconocimientos y Certificaciones</h2>
 
