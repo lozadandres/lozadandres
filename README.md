@@ -72,6 +72,7 @@
       <td><img src="https://skillicons.dev/icons?i=xd" width="50"><br><p>Adobe</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/174/174874.png" width="50"><br><p>Trello</p></td>
       <td><img src="https://apps.pardus.org.tr/files/pngicons/draw.io.png" width="50"><br><p>draw.io</p></td>
+      <td><img src="https://images.opencollective.com/drawdb/5252d15/logo/256.png" width="50"><br><p>drawdb</p></td>
       <td><img src="https://skillicons.dev/icons?i=postman" width="50"><br><p>Postman</p></td>
       <td><img src="https://skillicons.dev/icons?i=linux" width="50"><br><p>Linux</p></td>
       <td><img src="https://skillicons.dev/icons?i=github" width="50"><br><p>GitHub</p></td>
