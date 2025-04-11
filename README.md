@@ -49,6 +49,7 @@
   <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=py" width="50"><br><p>Python</p></td>
       <td><img src="https://skillicons.dev/icons?i=cpp" width="50"><br><p>C++</p></td>
+      <td><img src="https://skillicons.dev/icons?i=java" width="50"><br><p>Java</p></td>
       <td><img src="https://skillicons.dev/icons?i=nodejs" width="50"><br><p>Node.js</p></td>
       <td><img src="https://skillicons.dev/icons?i=express" width="50"><br><p>Express</p></td>
   </tr>
@@ -67,6 +68,7 @@
   <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=git" width="50"><br><p>Git</p></td>
       <td><img src="https://skillicons.dev/icons?i=vscode" width="50"><br><p>VS Code</p></td>
+      <td><img src="https://skillicons.dev/icons?i=idea" width="50"><br><p>VS Code</p></td>
       <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>vite</p></td>
       <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
       <td><img src="https://skillicons.dev/icons?i=xd" width="50"><br><p>Adobe</p></td>
