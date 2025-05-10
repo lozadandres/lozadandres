@@ -72,6 +72,7 @@
   <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=postgres" width="50"><br><p>PostgreSQL</p></td>
      <td><img src="https://skillicons.dev/icons?i=mongodb" width="50"><br><p>MongoDB</p></td>
+     <td><img src="https://skillicons.dev/icons?i=mysql" width="50"><br><p>Mysql</p></td>
   </tr>
 </table>  
 
