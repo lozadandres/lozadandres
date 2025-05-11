@@ -164,7 +164,7 @@
 		<a href="https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulua" target="_blank">
 			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 		</a> 
-		<a target="_blank" href="https://youtu.be/J3YhwaTR3kg">
+		<a target="_blank" href="https://youtu.be/idIFjqdug3U">
 			<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 	        </a>
       </p>
