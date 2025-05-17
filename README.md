@@ -89,6 +89,10 @@
       <td><img src="https://apps.pardus.org.tr/files/pngicons/draw.io.png" width="50"><br><p>draw.io</p></td>
       <td><img src="https://images.opencollective.com/drawdb/5252d15/logo/256.png" width="50"><br><p>drawdb</p></td>
       <td><img src="https://skillicons.dev/icons?i=postman" width="50"><br><p>Postman</p></td>
+  </tr>
+  <tr align="center">
+      <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>vercel</p></td>
+      <td><img src="https://skillicons.dev/icons?i=notion" width="50"><br><p>notion</p></td>
       <td><img src="https://skillicons.dev/icons?i=linux" width="50"><br><p>Linux</p></td>
       <td><img src="https://skillicons.dev/icons?i=github" width="50"><br><p>GitHub</p></td>
   </tr>
