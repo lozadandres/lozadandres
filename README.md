@@ -48,6 +48,7 @@
       <td><img src="https://skillicons.dev/icons?i=js" width="50"><br><p>JavaScript</p></td>
       <td><img src="https://skillicons.dev/icons?i=bootstrap" width="50"><br><p>Bootstrap</p></td>
       <td><img src="https://skillicons.dev/icons?i=sass" width="50"><br><p>Sass</p></td>
+      <td><img src="https://skillicons.dev/icons?i=tailwind" width="50"><br><p>tailwind</p></td>
       <td><img src="https://skillicons.dev/icons?i=jquery" width="50"><br><p>jQuery</p></td>
       <td><img src="https://skillicons.dev/icons?i=react" width="50"><br><p>React</p></td>
       <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
