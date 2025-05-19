@@ -92,7 +92,7 @@
       <td><img src="https://skillicons.dev/icons?i=postman" width="50"><br><p>Postman</p></td>
   </tr>
   <tr align="center">
-      <td><img src="https://toppng.com/uploads/preview/xampp-logo-11609383422lj7pwtjrpy.png" width="50"><br><p>xampp</p></td>
+      <td><img src="https://softyfile.com/wp-content/uploads/2022/03/XAMPP_logo.png" width="50"><br><p>xampp</p></td>
       <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>vercel</p></td>
       <td><img src="https://skillicons.dev/icons?i=notion" width="50"><br><p>notion</p></td>
       <td><img src="https://skillicons.dev/icons?i=codepen" width="50"><br><p>codepen</p></td>
