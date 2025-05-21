@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/tu-usuario">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hola!;Desarrollador%20de%20Software;%20Desarrollo%20Web;Siempre%20aprendiendo&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hola!;Soy%20Desarrollador%20de%20Software;%20Desarrollo%20Web;Siempre%20aprendiendo&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
   </a>
 </p>
+
 
 
 
