@@ -1,6 +1,9 @@
 <p align="center">
-  <a href="https://github.com/tu-usuario"><img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hola%20a%20todos!;¡Bienvenido%20a%20mi%20perfil!;Desarrollador%20de%20Software;Apasionado%20por%20diseños;%20limpios%20e%20intuitivos;10%Siempre%20aprendiendo%20nuevas%20tecnologías&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/tu-usuario">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hola%20a%20todos!;¡Bienvenido%20a%20mi%20perfil!;Desarrollador%20de%20Software;Desarrollo%20Web;Apasionado%20por%20diseños;%20limpios%20e%20intuitivos;Siempre%20aprendiendo%20nuevas%20tecnologías&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
+  </a>
 </p>
+
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
