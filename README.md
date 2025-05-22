@@ -84,15 +84,16 @@
       <td><img src="https://skillicons.dev/icons?i=git" width="50"><br><p>Git</p></td>
       <td><img src="https://skillicons.dev/icons?i=vscode" width="50"><br><p>VS Code</p></td>
       <td><img src="https://skillicons.dev/icons?i=idea" width="50"><br><p>Idea</p></td>
+      <td><img src="https://skillicons.dev/icons?i=clion" width="50"><br><p>clion</p></td>
       <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>vite</p></td>
       <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
       <td><img src="https://skillicons.dev/icons?i=xd" width="50"><br><p>Adobe</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/174/174874.png" width="50"><br><p>Trello</p></td>
       <td><img src="https://apps.pardus.org.tr/files/pngicons/draw.io.png" width="50"><br><p>draw.io</p></td>
       <td><img src="https://images.opencollective.com/drawdb/5252d15/logo/256.png" width="50"><br><p>drawdb</p></td>
-      <td><img src="https://skillicons.dev/icons?i=postman" width="50"><br><p>Postman</p></td>
   </tr>
   <tr align="center">
+      <td><img src="https://skillicons.dev/icons?i=postman" width="50"><br><p>Postman</p></td>
       <td><img src="https://softyfile.com/wp-content/uploads/2022/03/XAMPP_logo.png" width="50"><br><p>xampp</p></td>
       <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>vercel</p></td>
       <td><img src="https://skillicons.dev/icons?i=notion" width="50"><br><p>notion</p></td>
