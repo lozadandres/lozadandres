@@ -54,7 +54,10 @@
       <td><img src="https://skillicons.dev/icons?i=react" width="50"><br><p>React</p></td>
       <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
       <td><img src="https://skillicons.dev/icons?i=ts" width="50"><br><p>TypeScript</p></td>
+  </tr>
+  <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=nextjs" width="50"><br><p>Next.js</p></td>
+      <td><img src="https://skillicons.dev/icons?i=vue" width="50"><br><p>vue</p></td>
   </tr>
 </table>
 
