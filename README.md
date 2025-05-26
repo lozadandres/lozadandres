@@ -92,7 +92,7 @@
       <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
       <td><img src="https://skillicons.dev/icons?i=xd" width="50"><br><p>Adobe</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="50"><br><p>Trello</p></td>
-      <td><img src="https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-globalnav-goto" width="50"><br><p>draw.io</p></td>
+      <td><img src="https://drive.google.com/file/d/1smB3euP8Kksr2ylGKXXqMDji3snaEyQI/view?usp=sharing" width="50"><br><p>draw.io</p></td>
       <td><img src="https://images.opencollective.com/drawdb/5252d15/logo/256.png" width="50"><br><p>drawdb</p></td>
   </tr>
   <tr align="center">
