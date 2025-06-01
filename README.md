@@ -89,14 +89,15 @@
       <td><img src="https://skillicons.dev/icons?i=vscode" width="50"><br><p>VS Code</p></td>
       <td><img src="https://skillicons.dev/icons?i=idea" width="50"><br><p>Idea</p></td>
       <td><img src="https://skillicons.dev/icons?i=clion" width="50"><br><p>clion</p></td>
+      <td><img src="https://skillicons.dev/icons?i=pycharm" width="50"><br><p>pycharm</p></td>
       <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>vite</p></td>
       <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
       <td><img src="https://skillicons.dev/icons?i=xd" width="50"><br><p>Adobe</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="50"><br><p>Trello</p></td>
       <td><img src="https://www.lexrat.com/uploads/2023/09/3tQtnDwt9DjcNKzkfZKDIhPk.png" width="50"><br><p>draw.io</p></td>
-      <td><img src="https://images.opencollective.com/drawdb/5252d15/logo/256.png" width="50"><br><p>drawdb</p></td>
   </tr>
   <tr align="center">
+      <td><img src="https://images.opencollective.com/drawdb/5252d15/logo/256.png" width="50"><br><p>drawdb</p></td>
       <td><img src="https://skillicons.dev/icons?i=postman" width="50"><br><p>Postman</p></td>
       <td><img src="https://softyfile.com/wp-content/uploads/2022/03/XAMPP_logo.png" width="50"><br><p>xampp</p></td>
       <td><img src="https://skillicons.dev/icons?i=powershell" width="50"><br><p>powershell</p></td>
