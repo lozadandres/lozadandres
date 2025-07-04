@@ -67,6 +67,7 @@
   <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=py" width="50"><br><p>Python</p></td>
       <td><img src="https://skillicons.dev/icons?i=cpp" width="50"><br><p>C++</p></td>
+      <td><img src="https://skillicons.dev/icons?i=cs" width="50"><br><p>C++</p></td>
       <td><img src="https://skillicons.dev/icons?i=java" width="50"><br><p>Java</p></td>
       <td><img src="https://skillicons.dev/icons?i=nodejs" width="50"><br><p>Node.js</p></td>
       <td><img src="https://skillicons.dev/icons?i=express" width="50"><br><p>Express</p></td>
