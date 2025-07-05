@@ -112,6 +112,7 @@
   </tr>
   <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=visualstudio" width="50"><br><p>Visual Studio</p></td>
+     <td><img src="https://firebasestorage.googleapis.com/v0/b/cristian-gonzalez.appspot.com/o/tecnologies%2Fjwt.svg?alt=media&token=a25fbe3c-da09-4c0e-a398-27700a4d3b55" width="50"><br><p>JWT</p></td>
   </tr>
 </table>
 
