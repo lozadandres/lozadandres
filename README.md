@@ -113,7 +113,7 @@
   <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=visualstudio" width="50"><br><p>Visual Studio</p></td>
      <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
-     <td><img src="https://drive.google.com/file/d/1FvJwJnpOmn9tGrIj--p48Q9RJauiCSoL/view" width="50"><br><p>Lucidchart</p></td>
+     <td><img src="https://cdn-1.webcatalog.io/catalog/lucidchart/lucidchart-icon.png" width="50"><br><p>Lucidchart</p></td>
   </tr>
 </table>
 
