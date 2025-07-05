@@ -110,6 +110,9 @@
       <td><img src="https://skillicons.dev/icons?i=codepen" width="50"><br><p>codepen</p></td>
       <td><img src="https://skillicons.dev/icons?i=github" width="50"><br><p>GitHub</p></td>
   </tr>
+  <tr align="center">
+     <td><img src="https://skillicons.dev/icons?i=visualstudio" width="50"><br><p>Visual Studio</p></td>
+  </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
