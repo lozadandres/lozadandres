@@ -97,12 +97,12 @@
       <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
       <td><img src="https://skillicons.dev/icons?i=xd" width="50"><br><p>Adobe</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="50"><br><p>Trello</p></td>
-      <td><img src="https://www.lexrat.com/uploads/2023/09/3tQtnDwt9DjcNKzkfZKDIhPk.png" width="50"><br><p>draw.io</p></td>
+      <td><img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" width="50"><br><p>draw.io</p></td>
   </tr>
   <tr align="center">
       <td><img src="https://images.opencollective.com/drawdb/5252d15/logo/256.png" width="50"><br><p>drawdb</p></td>
       <td><img src="https://skillicons.dev/icons?i=postman" width="50"><br><p>Postman</p></td>
-      <td><img src="https://softyfile.com/wp-content/uploads/2022/03/XAMPP_logo.png" width="50"><br><p>xampp</p></td>
+      <td><img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="50"><br><p>xampp</p></td>
       <td><img src="https://skillicons.dev/icons?i=powershell" width="50"><br><p>powershell</p></td>
       <td><img src="https://skillicons.dev/icons?i=linux" width="50"><br><p>Linux</p></td>
       <td><img src="https://skillicons.dev/icons?i=bash" width="50"><br><p>bash</p></td>
