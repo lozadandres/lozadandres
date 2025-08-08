@@ -82,6 +82,7 @@
      <td><img src="https://skillicons.dev/icons?i=postgres" width="50"><br><p>PostgreSQL</p></td>
      <td><img src="https://skillicons.dev/icons?i=mongodb" width="50"><br><p>MongoDB</p></td>
      <td><img src="https://skillicons.dev/icons?i=mysql" width="50"><br><p>Mysql</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=supabase" width="50"><br><p>supabase</p></td>
   </tr>
 </table>  
 
