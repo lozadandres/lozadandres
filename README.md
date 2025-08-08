@@ -115,6 +115,7 @@
      <td><img src="https://skillicons.dev/icons?i=visualstudio" width="50"><br><p>Visual Studio</p></td>
      <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
      <td><img src="https://cdn-1.webcatalog.io/catalog/lucidchart/lucidchart-icon.png" width="50"><br><p>Lucidchart</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=bots" width="50"><br><p>bots</p></td>
   </tr>
 </table>
 
