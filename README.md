@@ -59,7 +59,7 @@
   </tr>
   <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=vue" width="50"><br><p>vue</p></td>
-	  <td><img src="https://jiripolasek.com/assets/slices/slice17.png" width="50"><br><p>vue</p></td>
+	  <td><img src="https://ih1.redbubble.net/image.2367184327.9393/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="50"><br><p>vue</p></td>
   </tr>
 </table>
 
