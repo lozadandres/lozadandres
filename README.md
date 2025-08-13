@@ -59,7 +59,7 @@
   </tr>
   <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=vue" width="50"><br><p>vue</p></td>
-	  <td><img src="https://www.step2gen.com/WebsiteAssets/assets/images/blazor-navicon.png" width="50"><br><p>Blazor</p></td>
+	  <td><img src="https://portafolio-andresloz-66.vercel.app/Blazor.png" width="85"><br><p>Blazor</p></td>
   </tr>
 </table>
 
