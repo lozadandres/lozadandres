@@ -120,7 +120,7 @@
      <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
      <td><img src="https://cdn-1.webcatalog.io/catalog/lucidchart/lucidchart-icon.png" width="50"><br><p>Lucidchart</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=bots" width="50"><br><p>Bots</p></td>
-	 <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="80"><p>AI</p></td>
+	 <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/wix.png" width="80"><br><p>Wix Studio</p></td>
   </tr>
 </table>
