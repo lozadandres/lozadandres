@@ -59,6 +59,7 @@
   </tr>
   <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=vue" width="50"><br><p>vue</p></td>
+	  <td><img src="https://jiripolasek.com/assets/slices/slice17.png" width="50"><br><p>vue</p></td>
   </tr>
 </table>
 
