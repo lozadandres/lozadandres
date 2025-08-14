@@ -122,7 +122,7 @@
 	 <td><img src="https://skillicons.dev/icons?i=bots" width="50"><br><p>Bots</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/wix.png" width="80"><br><p>Wix Studio</p></td>
-	 <td><img src="https://portafolio-andresloz-66.vercel.app/geminiCLI.png" width="80"><br><p>Gemini CLI</p></td>
+	 <td><img src="https://portafolio-andresloz-66.vercel.app/geminiCLI.png" width="120"><br><p>Gemini CLI</p></td>
   </tr>
 </table>
 
