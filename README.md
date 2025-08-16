@@ -124,6 +124,7 @@
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/wix.png" width="80"><br><p>Wix Studio</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>Gemini CLI</p></td>
+	 <td><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254425/swagger-icon-md.png" width="80"><br><p>Swagger</p></td>
   </tr>
 </table>
 
