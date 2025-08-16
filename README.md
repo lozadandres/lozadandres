@@ -72,6 +72,7 @@
       <td><img src="https://skillicons.dev/icons?i=java" width="50"><br><p>Java</p></td>
       <td><img src="https://skillicons.dev/icons?i=nodejs" width="50"><br><p>Node.js</p></td>
       <td><img src="https://skillicons.dev/icons?i=express" width="50"><br><p>Express</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=nestjs" width="50"><br><p>nestjs</p></td>
       <td><img src="https://skillicons.dev/icons?i=sequelize" width="50"><br><p>Sequelize</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=dotnet" width="50"><br><p>.Net</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=wasm" width="50"><br><p>wasm</p></td>
