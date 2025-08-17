@@ -129,6 +129,10 @@
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>Gemini CLI</p></td>
 	 <td><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254425/swagger-icon-md.png" width="80"><br><p>Swagger</p></td>
   </tr>
+  <tr align="center">
+	  <td><img src="https://www.metaexplorer.co/images/logo.png" width="80"><br><p>MetaExplorer</p>
+	  <td><img src="https://images.seeklogo.com/logo-png/42/2/google-pagespeed-insights-logo-png_seeklogo-427227.png" width="80"><br><p>Google PageSpeed</p>
+  </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
