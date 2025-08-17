@@ -131,7 +131,7 @@
   </tr>
   <tr align="center">
 	  <td><img src="https://www.metaexplorer.co/images/logo.png" width="80"><br><p>MetaExplorer</p>
-	  <td><img src="https://images.seeklogo.com/logo-png/42/2/google-pagespeed-insights-logo-png_seeklogo-427227.png" width="80"><br><p>Google PageSpeed</p>
+	  <td><img src="https://tse1.mm.bing.net/th/id/OIP.lUBR4kcYwCxmazOdoGfC9AAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="80"><br><p>Google PageSpeed</p>
   </tr>
 </table>
 
