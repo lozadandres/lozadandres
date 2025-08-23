@@ -170,19 +170,6 @@
   <tr>
     <td width="1100" valign="top">
         <br />
-        <a target="_blank" href="https://github.com/lozadandres/Crud_Java_MVC">
-            <img src="https://github.com/lozadandres/Crud_Java_MVC/blob/master/Captura1.png" width="100%" height="500" alt="App"/>
-        </a>
-	<h3 align="center">Sistema de Gestión Inmobiliaria </h3>
-        <br />
-        <p align="center">
-		<a href="https://github.com/lozadandres/Crud_Java_MVC" target="_blank">
-			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-		</a>
-      </p>
-    </td>
-    <td width="1100" valign="top">
-        <br />
         <a target="_blank" href="#">
             <img src="https://github.com/lozadandres/Gesti-n-de-Eventos/blob/main/Captura.png" width="100%" height="500" alt="App"/>
         </a>
@@ -231,6 +218,25 @@
     </td>
   </tr>
   
+</table>
+
+<table>
+  
+  <tr>
+    <td width="1100" valign="top">
+        <br />
+        <a target="_blank" href="https://github.com/lozadandres/Crud_Java_MVC">
+            <img src="https://github.com/lozadandres/Crud_Java_MVC/blob/master/Captura1.png" width="100%" height="500" alt="App"/>
+        </a>
+	<h3 align="center">Sistema de Gestión Inmobiliaria </h3>
+        <br />
+        <p align="center">
+		<a href="https://github.com/lozadandres/Crud_Java_MVC" target="_blank">
+			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+		</a>
+      </p>
+    </td>
+ </tr>
 </table>
 
 <br/>
