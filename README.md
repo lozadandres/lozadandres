@@ -173,7 +173,7 @@
         <a target="_blank" href="https://github.com/lozadandres/Crud_Java_MVC">
             <img src="https://github.com/lozadandres/Crud_Java_MVC/blob/master/Captura1.png" width="100%" height="200" alt="App"/>
         </a>
-	<h3 align="center">Sistema de Gestión Inmobiliaria (Java · MVC · PostgreSQL)</h3>
+	<h3 align="center">Sistema de Gestión Inmobiliaria </h3> <br> <h3> (Java · MVC · PostgreSQL)</h3>
         <br />
         <p align="center">
 		<a href="https://github.com/lozadandres/Crud_Java_MVC" target="_blank">
