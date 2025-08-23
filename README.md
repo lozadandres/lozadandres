@@ -87,9 +87,15 @@
      <td><img src="https://skillicons.dev/icons?i=postgres" width="50"><br><p>PostgreSQL</p></td>
      <td><img src="https://skillicons.dev/icons?i=mongodb" width="50"><br><p>MongoDB</p></td>
      <td><img src="https://skillicons.dev/icons?i=mysql" width="50"><br><p>Mysql</p></td>
-	 <td><img src="https://skillicons.dev/icons?i=supabase" width="50"><br><p>supabase</p></td>
   </tr>
-</table>  
+</table> 
+
+<h3># Backend as a Service (BaaS)</h3>
+<table>
+  <tr align="center">
+     <td><img src="https://skillicons.dev/icons?i=supabase" width="50"><br><p>Supabase</p></td>
+  </tr>
+</table>
 
 <h3># Herramientas de Desarrollo</h3>
 <table>
