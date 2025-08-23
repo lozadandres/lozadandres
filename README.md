@@ -217,11 +217,7 @@
       </p>
     </td>
   </tr>
-  
-</table>
 
-<table>
-  
   <tr>
     <td width="1100" valign="top">
         <br />
@@ -237,6 +233,7 @@
       </p>
     </td>
  </tr>
+  
 </table>
 
 <br/>
