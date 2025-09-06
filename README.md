@@ -225,10 +225,23 @@
         <a target="_blank" href="https://github.com/lozadandres/Crud_Java_MVC">
             <img src="https://github.com/lozadandres/Crud_Java_MVC/blob/master/Captura1.png" width="100%" height="500" alt="App"/>
         </a>
-	<h3 align="center">Sistema de Gestión Inmobiliaria </h3>
+	    <h3 align="center">Sistema de Gestión Inmobiliaria</h3>
         <br />
         <p align="center">
 		<a href="https://github.com/lozadandres/Crud_Java_MVC" target="_blank">
+			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+		</a>
+      </p>
+    </td>
+	<td width="1100" valign="top">
+        <br />
+        <a target="_blank" href="https://github.com/lozadandres/EcomercePGSQL">
+            <img src="https://raw.githubusercontent.com/Carlitos-quintero/Ecomerce_Game-V.3/main/frontend/public/Catalogo.jpeg" width="100%" height="500" alt="App"/>
+        </a>
+	    <h3 align="center">E-commerce con PostgreSQL y React</h3>
+        <br />
+        <p align="center">
+		<a href="https://github.com/lozadandres/EcomercePGSQL" target="_blank">
 			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 		</a>
       </p>
