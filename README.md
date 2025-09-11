@@ -59,6 +59,7 @@
   </tr>
   <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=vue" width="50"><br><p>vue</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=nuxtjs" width="50"><br><p>nuxtjs</p></td>
 	  <td><img src="https://portafolio-andresloz-66.vercel.app/Blazor.png" width="85"><br><p>Blazor</p></td>
   </tr>
 </table>
