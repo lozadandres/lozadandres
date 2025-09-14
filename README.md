@@ -147,6 +147,7 @@
 <table>
   <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=supabase" width="50"><br><p>Supabase</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=nestjs" width="50"><br><p>nestjs</p></td>
   </tr>
 </table>
 
