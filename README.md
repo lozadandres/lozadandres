@@ -73,7 +73,6 @@
       <td><img src="https://skillicons.dev/icons?i=java" width="50"><br><p>Java</p></td>
       <td><img src="https://skillicons.dev/icons?i=nodejs" width="50"><br><p>Node.js</p></td>
       <td><img src="https://skillicons.dev/icons?i=express" width="50"><br><p>Express</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=nestjs" width="50"><br><p>nestjs</p></td>
       <td><img src="https://skillicons.dev/icons?i=sequelize" width="50"><br><p>Sequelize (ORM)</p></td>
 	  <td><img src="https://asset.jarombek.com/logos/mongoose.png" width="50"><br><p>Mongoose (ODM)</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=dotnet" width="50"><br><p>.Net</p></td>
@@ -125,11 +124,9 @@
       <td><img src="https://skillicons.dev/icons?i=github" width="50"><br><p>GitHub</p></td>
   </tr>
   <tr align="center">
-	 <td><img src="https://skillicons.dev/icons?i=githubactions" width="50"><br><p>githubactions</p></td>
      <td><img src="https://skillicons.dev/icons?i=visualstudio" width="50"><br><p>Visual Studio</p></td>
      <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
      <td><img src="https://cdn-1.webcatalog.io/catalog/lucidchart/lucidchart-icon.png" width="50"><br><p>Lucidchart</p></td>
-	 <td><img src="https://sc.filehippo.net/images/t_app-icon-m/p/e6d790bb-aa65-4fab-aa1e-346af12710a0/1081729734/jaspersoft-studio-imgingest-4237344852768170016.png" width="50"><br><p>Jaspersoft Reports</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=bots" width="50"><br><p>Bots</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/wix.png" width="80"><br><p>Wix Studio</p></td>
