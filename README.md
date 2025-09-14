@@ -143,6 +143,13 @@
   </tr>
 </table>
 
+<h3># Tecnologías y Herramientas en Aprendizaje</h3>
+<table>
+  <tr align="center">
+     <td><img src="https://skillicons.dev/icons?i=supabase" width="50"><br><p>Supabase</p></td>
+  </tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 <h2>⚙️ Proyectos Destacados</h2>
