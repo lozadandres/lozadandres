@@ -86,7 +86,6 @@
   <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=postgres" width="50"><br><p>PostgreSQL</p></td>
      <td><img src="https://skillicons.dev/icons?i=mongodb" width="50"><br><p>MongoDB</p></td>
-     <td><img src="https://skillicons.dev/icons?i=mysql" width="50"><br><p>Mysql</p></td>
   </tr>
 </table> 
 
@@ -146,6 +145,7 @@
      <td><img src="https://skillicons.dev/icons?i=supabase" width="50"><br><p>Supabase</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=nestjs" width="50"><br><p>nestjs</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=githubactions" width="50"><br><p>githubactions</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=mysql" width="50"><br><p>Mysql</p></td>
 	  <td><img src="https://sc.filehippo.net/images/t_app-icon-m/p/e6d790bb-aa65-4fab-aa1e-346af12710a0/1081729734/jaspersoft-studio-imgingest-4237344852768170016.png" width="50"><br><p>Jaspersoft Reports</p></td>
   </tr>
 </table>
