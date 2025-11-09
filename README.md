@@ -106,7 +106,7 @@
       <td><img src="https://skillicons.dev/icons?i=pycharm" width="50"><br><p>pycharm</p></td>
       <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>vite</p></td>
       <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
-      <td><img src="https://skillicons.dev/icons?i=xd" width="50"><br><p>Adobe</p></td>
+      <td><img src="https://assets.apidog.com/static/fast-request-www/images/icon-apidog-footer.png" width="50"><br><p>Apidog</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="50"><br><p>Trello</p></td>
       <td><img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" width="50"><br><p>draw.io</p></td>
   </tr>
