@@ -273,7 +273,7 @@
         <a style="margin-left: 10px;" target="_blank" href="mailto:lozadaandres955@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/andr%C3%A9s-felipe-lozada-manzano-0b9ba31b0/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/andres-felipe-lozada-manzano-0b9ba31b0/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/1270558508030492704">
