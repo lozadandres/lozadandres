@@ -101,34 +101,33 @@
       <td><img src="https://skillicons.dev/icons?i=vscode" width="50"><br><p>VS Code</p></td>
 	  <td><img src="https://assets-v2.circle.so/nyw21c6x1ehj10t919zb1x1vu01r" width="50"><br><p>Cursor AI</p>
       <td><img src="https://skillicons.dev/icons?i=idea" width="50"><br><p>Idea</p></td>
-      <td><img src="https://skillicons.dev/icons?i=clion" width="50"><br><p>clion</p></td>
       <td><img src="https://skillicons.dev/icons?i=pycharm" width="50"><br><p>pycharm</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=visualstudio" width="50"><br><p>Visual Studio</p></td>
       <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=codepen" width="50"><br><p>codepen</p></td>
 	  <td><img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" width="50"><br><p>draw.io</p></td>
 	  <td><img src="https://cdn-1.webcatalog.io/catalog/lucidchart/lucidchart-icon.png" width="50"><br><p>Lucidchart</p></td>
-	  <td><img src="https://images.opencollective.com/drawdb/5252d15/logo/256.png" width="50"><br><p>drawdb</p></td>
+	  <td><img src="https://images.opencollective.com/drawdb/5252d15/logo/256.png" width="50"><br><p>Drawdb</p></td>
   </tr>
   <tr align="center">
 	  <td><img src="https://assets.apidog.com/static/fast-request-www/images/icon-apidog-footer.png" width="50"><br><p>Apidog</p></td>
       <td><img src="https://skillicons.dev/icons?i=postman" width="50"><br><p>Postman</p></td>
       <td><img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="50"><br><p>xampp</p></td>
-      <td><img src="https://skillicons.dev/icons?i=powershell" width="50"><br><p>powershell</p></td>
+      <td><img src="https://skillicons.dev/icons?i=powershell" width="50"><br><p>Powershell</p></td>
       <td><img src="https://skillicons.dev/icons?i=linux" width="50"><br><p>Linux</p></td>
       <td><img src="https://skillicons.dev/icons?i=bash" width="50"><br><p>bash</p></td>
-      <td><img src="https://skillicons.dev/icons?i=notion" width="50"><br><p>notion</p></td>
+      <td><img src="https://skillicons.dev/icons?i=notion" width="50"><br><p>Notion</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=git" width="50"><br><p>Git</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=github" width="50"><br><p>GitHub</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="50"><br><p>Trello</p></td>
   </tr>
   <tr align="center">
-	 <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>vite</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>Vite</p></td>
      <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=bots" width="50"><br><p>Bots</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/wix.png" width="80"><br><p>Wix Studio</p></td>
-	 <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>Qwen y Gemini CLI</p></td>
+	 <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>Gemini CLI</p></td>
 	 <td><img src="https://th.bing.com/th/id/R.329b4dc9e966505948975721c7ac159c?rik=g6YXHOp0CaAomg&riu=http%3a%2f%2fpic.962.net%2fup%2f2024-7%2f2024791010472701.png&ehk=L7B2%2fHa2ULBv9IIPHJX8nCwCOrnMYmhxzFR3nEbep98%3d&risl=&pid=ImgRaw&r=0" width="50"><br><p>Google PageSpeed</p>
 	 <td><img src="https://tse3.mm.bing.net/th/id/OIP.jnUWmcWJi9VhxGCHKcMxkgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="50"><br><p>Scalar API</p>
 	 <td><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254425/swagger-icon-md.png" width="50"><br><p>Swagger</p></td>
