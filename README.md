@@ -100,7 +100,7 @@
   <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=git" width="50"><br><p>Git</p></td>
       <td><img src="https://skillicons.dev/icons?i=vscode" width="50"><br><p>VS Code</p></td>
-	  <td><img src="https://custom.typingmind.com/assets/models/cursor.png" width="50"><br><p>Cursor AI</p>
+	  <td><img src="https://assets-v2.circle.so/nyw21c6x1ehj10t919zb1x1vu01r" width="50"><br><p>Cursor AI</p>
       <td><img src="https://skillicons.dev/icons?i=idea" width="50"><br><p>Idea</p></td>
       <td><img src="https://skillicons.dev/icons?i=clion" width="50"><br><p>clion</p></td>
       <td><img src="https://skillicons.dev/icons?i=pycharm" width="50"><br><p>pycharm</p></td>
