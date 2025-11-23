@@ -105,6 +105,7 @@
       <td><img src="https://skillicons.dev/icons?i=pycharm" width="50"><br><p>pycharm</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=visualstudio" width="50"><br><p>Visual Studio</p></td>
       <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=codepen" width="50"><br><p>codepen</p></td>
 	  <td><img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" width="50"><br><p>draw.io</p></td>
 	  <td><img src="https://images.opencollective.com/drawdb/5252d15/logo/256.png" width="50"><br><p>drawdb</p></td>
   </tr>
@@ -117,7 +118,6 @@
       <td><img src="https://skillicons.dev/icons?i=bash" width="50"><br><p>bash</p></td>
       <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>vercel</p></td>
       <td><img src="https://skillicons.dev/icons?i=notion" width="50"><br><p>notion</p></td>
-      <td><img src="https://skillicons.dev/icons?i=codepen" width="50"><br><p>codepen</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=git" width="50"><br><p>Git</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=github" width="50"><br><p>GitHub</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="50"><br><p>Trello</p></td>
