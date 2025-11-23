@@ -136,6 +136,9 @@
   </tr>
   <tr align="center">
 	  <td><img src="https://www.metaexplorer.co/images/logo.png" width="50"><br><p>MetaExplorer</p>
+	  <td><img src="https://chatgptaihub.com/wp-content/uploads/2023/06/ChatGpt-Logo-with-Black-Background-768x768.png" width="50"><br><p>Chatgpt AI</p></td>
+	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50"><br><p>Claude AI</p></td>
+	  <td><img src="https://static.vecteezy.com/system/resources/previews/046/861/646/original/gemini-icon-on-a-transparent-background-free-png.png" width="50"><br><p>Gemini AI</p></td>
   </tr>
 </table>
 
