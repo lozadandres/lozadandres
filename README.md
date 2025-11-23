@@ -104,7 +104,7 @@
       <td><img src="https://skillicons.dev/icons?i=idea" width="50"><br><p>Idea</p></td>
       <td><img src="https://skillicons.dev/icons?i=clion" width="50"><br><p>clion</p></td>
       <td><img src="https://skillicons.dev/icons?i=pycharm" width="50"><br><p>pycharm</p></td>
-      <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>vite</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=visualstudio" width="50"><br><p>Visual Studio</p></td>
       <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
       <td><img src="https://assets.apidog.com/static/fast-request-www/images/icon-apidog-footer.png" width="50"><br><p>Apidog</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="50"><br><p>Trello</p></td>
@@ -123,7 +123,7 @@
       <td><img src="https://skillicons.dev/icons?i=github" width="50"><br><p>GitHub</p></td>
   </tr>
   <tr align="center">
-     <td><img src="https://skillicons.dev/icons?i=visualstudio" width="50"><br><p>Visual Studio</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>vite</p></td>
      <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
      <td><img src="https://cdn-1.webcatalog.io/catalog/lucidchart/lucidchart-icon.png" width="50"><br><p>Lucidchart</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=bots" width="50"><br><p>Bots</p></td>
