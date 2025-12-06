@@ -128,7 +128,7 @@
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/wix.png" width="80"><br><p>Wix Studio</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>Gemini CLI</p></td>
-	 <td><img src="https://drive.google.com/file/d/155iNxdBRA0Tx9MqWdRadOz8chpZ0a7jz/view?usp=sharing" width="80"><br><p>Jules</p></td>
+	 <td><img src="https://drive.google.com/file/d/155iNxdBRA0Tx9MqWdRadOz8chpZ0a7jz/view?usp=drive_link" width="80"><br><p>Jules</p></td>
 	 <td><img src="https://th.bing.com/th/id/R.329b4dc9e966505948975721c7ac159c?rik=g6YXHOp0CaAomg&riu=http%3a%2f%2fpic.962.net%2fup%2f2024-7%2f2024791010472701.png&ehk=L7B2%2fHa2ULBv9IIPHJX8nCwCOrnMYmhxzFR3nEbep98%3d&risl=&pid=ImgRaw&r=0" width="50"><br><p>Google PageSpeed</p>
 	 <td><img src="https://tse3.mm.bing.net/th/id/OIP.jnUWmcWJi9VhxGCHKcMxkgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="50"><br><p>Scalar API</p>
 	 <td><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254425/swagger-icon-md.png" width="50"><br><p>Swagger</p></td>
