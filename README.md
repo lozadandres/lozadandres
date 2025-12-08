@@ -142,6 +142,7 @@
 	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-icon.png" width="50"><br><p>Grok AI</p></td>
 	  <td><img src="https://static.vecteezy.com/system/resources/previews/046/861/646/original/gemini-icon-on-a-transparent-background-free-png.png" width="50"><br><p>Gemini AI</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>vercel</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=pinia" width="50"><br><p>Pinia</p></td>
   </tr>
 </table>
 
