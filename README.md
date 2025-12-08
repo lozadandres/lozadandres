@@ -75,6 +75,7 @@
       <td><img src="https://skillicons.dev/icons?i=express" width="50"><br><p>Express</p></td>
       <td><img src="https://skillicons.dev/icons?i=sequelize" width="50"><br><p>Sequelize (ORM)</p></td>
 	  <td><img src="https://asset.jarombek.com/logos/mongoose.png" width="50"><br><p>Mongoose (ODM)</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=jest" width="50"><br><p>Jest</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=dotnet" width="50"><br><p>.Net 8</p></td>
 	  <td><img src="https://lirp.cdn-website.com/f8d3d5b2/dms3rep/multi/opt/NET_Core_Logo_1-1920w.png" width="50"><br><p>ASP.NET Core</p></td>
       <td><img src="https://firebasestorage.googleapis.com/v0/b/cristian-gonzalez.appspot.com/o/tecnologies%2Fjwt.svg?alt=media&token=a25fbe3c-da09-4c0e-a398-27700a4d3b55" width="50"><br><p>JWT</p></td>
@@ -148,6 +149,7 @@
 <table>
   <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=androidstudio" width="50"><br><p>Android Studio</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=kotlin" width="50"><br><p>kotlin</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=nestjs" width="50"><br><p>Nestjs</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=githubactions" width="50"><br><p>githubactions</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=mysql" width="50"><br><p>Mysql</p></td>
