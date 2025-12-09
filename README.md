@@ -126,9 +126,9 @@
   <tr align="center">
 	 <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>Vite</p></td>
      <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
-	 <td><img src="https://skillicons.dev/icons?i=bots" width="50"><br><p>Bots</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=yarn" width="50"><br><p>yarn</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=vitest" width="50"><br><p>vitest</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
-	 <td><img src="https://portafolio-andresloz-66.vercel.app/wix.png" width="80"><br><p>Wix Studio</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>Gemini CLI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/jules.png" width="80"><br><p>Jules</p></td>
 	 <td><img src="https://th.bing.com/th/id/R.329b4dc9e966505948975721c7ac159c?rik=g6YXHOp0CaAomg&riu=http%3a%2f%2fpic.962.net%2fup%2f2024-7%2f2024791010472701.png&ehk=L7B2%2fHa2ULBv9IIPHJX8nCwCOrnMYmhxzFR3nEbep98%3d&risl=&pid=ImgRaw&r=0" width="50"><br><p>Google PageSpeed</p>
