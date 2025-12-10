@@ -147,11 +147,11 @@
 	  <td><img src="https://skillicons.dev/icons?i=git" width="50"><br><p>Git</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=github" width="50"><br><p>GitHub</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="50"><br><p>Trello</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=yarn" width="50"><br><p>yarn</p></td>
   </tr>
   <tr align="center">
 	 <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>Vite</p></td>
-     <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
-	 <td><img src="https://skillicons.dev/icons?i=yarn" width="50"><br><p>yarn</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>Gemini CLI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/jules.png" width="80"><br><p>Jules</p></td>
