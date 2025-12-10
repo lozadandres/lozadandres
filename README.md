@@ -152,6 +152,8 @@
   </tr>
   <tr align="center">
 	 <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>Vite</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=redux" width="50"><br><p>Redux</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=pinia" width="50"><br><p>Pinia</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>Gemini CLI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/jules.png" width="80"><br><p>Jules</p></td>
@@ -166,7 +168,6 @@
 	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-icon.png" width="50"><br><p>Grok AI</p></td>
 	  <td><img src="https://static.vecteezy.com/system/resources/previews/046/861/646/original/gemini-icon-on-a-transparent-background-free-png.png" width="50"><br><p>Gemini AI</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>vercel</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=pinia" width="50"><br><p>Pinia</p></td>
   </tr>
 </table>
 
@@ -175,7 +176,6 @@
   <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=androidstudio" width="50"><br><p>Android Studio</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=kotlin" width="50"><br><p>kotlin</p></td>
-	 <td><img src="https://skillicons.dev/icons?i=redux" width="50"><br><p>Redux</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=redis" width="50"><br><p>Redis</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=graphql" width="50"><br><p>Graphql</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=nestjs" width="50"><br><p>Nestjs</p></td>
