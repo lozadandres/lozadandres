@@ -119,6 +119,8 @@
 ##### 🔹 Code Quality
 <table>
   <tr align="center">
+	  <td><img src="https://www.kodingakademi.id/wp-content/uploads/2022/12/ESLint_logo-removebg-preview.png" width="50"><br><p>ESLint</p></td>
+	  <td><img src="https://brandslogos.com/wp-content/uploads/images/large/prettier-logo.png" width="50"><br><p>Prettier</p></td>
   </tr>
 </table>
 
