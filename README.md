@@ -43,7 +43,9 @@
 </p>
 
 <h2 font-weight="bold"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture>𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<h3># Front-End</h3>
+
+### Front-End
+
 <table>
   <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=html" width="50"><br><p>HTML</p></td>
@@ -64,7 +66,7 @@
   </tr>
 </table>
 
-<h3># Back-End</h3>
+### Back-End
 <table>
   <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=py" width="50"><br><p>Python</p></td>
@@ -75,14 +77,13 @@
       <td><img src="https://skillicons.dev/icons?i=express" width="50"><br><p>Express</p></td>
       <td><img src="https://skillicons.dev/icons?i=sequelize" width="50"><br><p>Sequelize (ORM)</p></td>
 	  <td><img src="https://asset.jarombek.com/logos/mongoose.png" width="50"><br><p>Mongoose (ODM)</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=jest" width="50"><br><p>Jest</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=dotnet" width="50"><br><p>.Net 8</p></td>
 	  <td><img src="https://lirp.cdn-website.com/f8d3d5b2/dms3rep/multi/opt/NET_Core_Logo_1-1920w.png" width="50"><br><p>ASP.NET Core</p></td>
       <td><img src="https://firebasestorage.googleapis.com/v0/b/cristian-gonzalez.appspot.com/o/tecnologies%2Fjwt.svg?alt=media&token=a25fbe3c-da09-4c0e-a398-27700a4d3b55" width="50"><br><p>JWT</p></td>
   </tr>
 </table>
 
-<h3># Databases</h3>
+### Databases
 <table>
   <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=postgres" width="50"><br><p>PostgreSQL</p></td>
@@ -90,14 +91,38 @@
   </tr>
 </table> 
 
-<h3># Backend as a Service (BaaS)</h3>
+### Backend as a Service (BaaS)
 <table>
   <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=supabase" width="50"><br><p>Supabase</p></td>
   </tr>
 </table>
 
-<h3># Herramientas de Desarrollo</h3>
+### 🧪 Testing Tools
+
+##### 🔹 Unit & Integration Testing
+<table>
+  <tr align="center">
+	  <td><img src="https://skillicons.dev/icons?i=jest" width="50"><br><p>Jest</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=vitest" width="50"><br><p>Vitest</p></td>
+  </tr>
+</table>
+
+##### 🔹 API Testing
+<table>
+  <tr align="center">
+	  <td><img src="https://skillicons.dev/icons?i=postman" width="50"><br><p>Postman</p></td>
+	  <td><img src="https://assets.apidog.com/static/fast-request-www/images/icon-apidog-footer.png" width="50"><br><p>Apidog</p></td>
+  </tr>
+</table>
+
+##### 🔹 Code Quality
+<table>
+  <tr align="center">
+  </tr>
+</table>
+
+### Herramientas de Desarrollo
 <table>
   <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=vscode" width="50"><br><p>VS Code</p></td>
@@ -112,8 +137,6 @@
 	  <td><img src="https://images.opencollective.com/drawdb/5252d15/logo/256.png" width="50"><br><p>Drawdb</p></td>
   </tr>
   <tr align="center">
-	  <td><img src="https://assets.apidog.com/static/fast-request-www/images/icon-apidog-footer.png" width="50"><br><p>Apidog</p></td>
-      <td><img src="https://skillicons.dev/icons?i=postman" width="50"><br><p>Postman</p></td>
       <td><img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="50"><br><p>xampp</p></td>
       <td><img src="https://skillicons.dev/icons?i=powershell" width="50"><br><p>Powershell</p></td>
       <td><img src="https://skillicons.dev/icons?i=linux" width="50"><br><p>Linux</p></td>
@@ -127,7 +150,6 @@
 	 <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>Vite</p></td>
      <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=yarn" width="50"><br><p>yarn</p></td>
-	 <td><img src="https://skillicons.dev/icons?i=vitest" width="50"><br><p>vitest</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>Gemini CLI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/jules.png" width="80"><br><p>Jules</p></td>
@@ -146,7 +168,7 @@
   </tr>
 </table>
 
-<h3># Tecnologías y Herramientas en Aprendizaje</h3>
+### Tecnologías y Herramientas en Aprendizaje
 <table>
   <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=androidstudio" width="50"><br><p>Android Studio</p></td>
