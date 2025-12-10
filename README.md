@@ -151,6 +151,8 @@
   <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=androidstudio" width="50"><br><p>Android Studio</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=kotlin" width="50"><br><p>kotlin</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=redux" width="50"><br><p>Redux</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=redis" width="50"><br><p>Redis</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=nestjs" width="50"><br><p>Nestjs</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=githubactions" width="50"><br><p>githubactions</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=mysql" width="50"><br><p>Mysql</p></td>
