@@ -160,17 +160,18 @@
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>Gemini CLI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/jules.png" width="80"><br><p>Jules</p></td>
+	 <td><img src="https://avatars.githubusercontent.com/u/183290039?s=280&v=4" width="80"><br><p>QodoAI</p></td>
 	 <td><img src="https://th.bing.com/th/id/R.329b4dc9e966505948975721c7ac159c?rik=g6YXHOp0CaAomg&riu=http%3a%2f%2fpic.962.net%2fup%2f2024-7%2f2024791010472701.png&ehk=L7B2%2fHa2ULBv9IIPHJX8nCwCOrnMYmhxzFR3nEbep98%3d&risl=&pid=ImgRaw&r=0" width="50"><br><p>Google PageSpeed</p>
 	 <td><img src="https://tse3.mm.bing.net/th/id/OIP.jnUWmcWJi9VhxGCHKcMxkgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="50"><br><p>Scalar API</p>
 	 <td><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254425/swagger-icon-md.png" width="50"><br><p>Swagger</p></td>
 	 <td><img src="https://www.metaexplorer.co/images/logo.png" width="50"><br><p>MetaExplorer</p>
   </tr>
   <tr align="center">
-	  <td><img src="https://chatgptaihub.com/wp-content/uploads/2023/06/ChatGpt-Logo-with-Black-Background-768x768.png" width="50"><br><p>Chatgpt AI</p></td>
-	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50"><br><p>Claude AI</p></td>
-	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-icon.png" width="50"><br><p>Grok AI</p></td>
-	  <td><img src="https://static.vecteezy.com/system/resources/previews/046/861/646/original/gemini-icon-on-a-transparent-background-free-png.png" width="50"><br><p>Gemini AI</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>vercel</p></td>
+	  <td><img src="https://chatgptaihub.com/wp-content/uploads/2023/06/ChatGpt-Logo-with-Black-Background-768x768.png" width="50"><br><p>ChatgptAI</p></td>
+	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50"><br><p>ClaudeAI</p></td>
+	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-icon.png" width="50"><br><p>GrokAI</p></td>
+	  <td><img src="https://static.vecteezy.com/system/resources/previews/046/861/646/original/gemini-icon-on-a-transparent-background-free-png.png" width="50"><br><p>GeminiAI</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>Vercel</p></td>
   </tr>
 </table>
 
