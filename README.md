@@ -178,7 +178,7 @@
 	  <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>Vercel</p></td>
   </tr>
   <tr align="center">
-     <td><img src="file:///C:/Users/lozad/Downloads/Gemini_Generated_Image_ok1xj8ok1xj8ok1x-fotor-20251212213612.png" width="50"><br><p>AntigravityAI</p></td>
+     <td><img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000005dcc71f5936b40acb983864d&ts=490442&p=fs&cid=1&sig=df753e73a49136d890f9392c66430053c6ec32ac743263f02031c88289186313&v=0" width="50"><br><p>AntigravityAI</p></td>
   </tr>
 </table>
 
