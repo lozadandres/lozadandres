@@ -178,7 +178,7 @@
 	  <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>Vercel</p></td>
   </tr>
   <tr align="center">
-     <td><img src="https://drive.google.com/file/d/1aL7uzBklvBicIQ8p5vVPVm5yo-LL1QWm/view?usp=sharing" width="50"><br><p>AntigravityAI</p></td>
+     <td><img src="file:///C:/Users/lozad/Downloads/Gemini_Generated_Image_ok1xj8ok1xj8ok1x-fotor-20251212213612.png" width="50"><br><p>AntigravityAI</p></td>
   </tr>
 </table>
 
