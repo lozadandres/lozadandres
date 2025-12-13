@@ -177,6 +177,9 @@
 	  <td><img src="https://theislamicinformation.com/wp-content/uploads/2025/09/gemini-icon.webp" width="50"><br><p>GeminiAI</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>Vercel</p></td>
   </tr>
+  <tr align="center">
+     <td><img src="https://drive.google.com/file/d/1aL7uzBklvBicIQ8p5vVPVm5yo-LL1QWm/view?usp=sharing" width="50"><br><p>AntigravityAI</p></td>
+  </tr>
 </table>
 
 ### Tecnologías y Herramientas en Aprendizaje
