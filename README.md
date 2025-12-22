@@ -308,9 +308,9 @@
     <td width="1100" valign="top">
         <br />
         <a target="_blank" href="https://github.com/lozadandres/EcomercePGSQL">
-            <img src="https://raw.githubusercontent.com/Carlitos-quintero/Ecomerce_Game-V.3/main/frontend/public/Catalogo.jpeg" width="100%" height="500" alt="App"/>
+            <img src="https://github.com/lozadandres/Simulador_dispenoxigeno_concurrencia/blob/main/screenshots/captura_en_uso.png" width="100%" height="500" alt="App"/>
         </a>
-	    <h3 align="center">E-commerce con PostgreSQL y React</h3>
+	    <h3 align="center">Simulador de dispensador de oxígeno en Java con programacion concurrente</h3>
         <br />
         <p align="center">
 		<a href="https://github.com/lozadandres/EcomercePGSQL" target="_blank">
