@@ -307,13 +307,13 @@
     </td>
     <td width="1100" valign="top">
         <br />
-        <a target="_blank" href="https://github.com/lozadandres/EcomercePGSQL">
+        <a target="_blank" href="https://github.com/lozadandres/Simulador_dispenoxigeno_concurrencia">
             <img src="https://github.com/lozadandres/Simulador_dispenoxigeno_concurrencia/blob/main/screenshots/captura_en_uso.png" width="100%" height="500" alt="App"/>
         </a>
 	    <h3 align="center">Simulador de dispensador de oxígeno en Java con programacion concurrente</h3>
         <br />
         <p align="center">
-		<a href="https://github.com/lozadandres/EcomercePGSQL" target="_blank">
+		<a href="https://github.com/lozadandres/Simulador_dispenoxigeno_concurrencia" target="_blank">
 			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 		</a>
       </p>
