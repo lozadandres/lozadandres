@@ -140,13 +140,15 @@
 	  <td><img src="https://skillicons.dev/icons?i=visualstudio" width="50"><br><p>Visual Studio</p></td>
 	  <td><img src="https://portafolio-andresloz-66.vercel.app/antigravity.png" width="50"><br><p>AntigravityAI</p></td>
 	  <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Traelogo.png" width="50"><br><p>TraeAI</p></td>
-      <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
+	  <td><img src="https://raw.githubusercontent.com/kirodotdev/Kiro/refs/heads/main/assets/kiro-icon.png" width="50"><br><p>Kiro</p></td>
+	  <td><img src="https://www.techspot.com/images2/downloads/topdownload/2025/05/2025-05-07-ts3_thumbs-d9f.png" width="50"><br><p>WindsurfAI</p></td>
+  </tr>
+  <tr align="center">
+	  <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=codepen" width="50"><br><p>codepen</p></td>
 	  <td><img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" width="50"><br><p>draw.io</p></td>
 	  <td><img src="https://cdn-1.webcatalog.io/catalog/lucidchart/lucidchart-icon.png" width="50"><br><p>Lucidchart</p></td>
 	  <td><img src="https://images.opencollective.com/drawdb/5252d15/logo/256.png" width="50"><br><p>Drawdb</p></td>
-  </tr>
-  <tr align="center">
       <td><img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="50"><br><p>xampp</p></td>
       <td><img src="https://skillicons.dev/icons?i=powershell" width="50"><br><p>Powershell</p></td>
       <td><img src="https://skillicons.dev/icons?i=linux" width="50"><br><p>Linux</p></td>
@@ -177,14 +179,12 @@
 	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-icon.png" width="50"><br><p>GrokAI</p></td>
 	  <td><img src="https://nelson.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcopilot.d56e4d15.png&w=640&q=100" width="50"><br><p>Github Copilot</p></td>
 	  <td><img src="https://lvshu-is-666.github.io/App/icon/Kimi.png" width="50"><br><p>KimiAI</p></td>
-	  <td><img src="https://raw.githubusercontent.com/kirodotdev/Kiro/refs/heads/main/assets/kiro-icon.png" width="50"><br><p>Kiro</p></td>
 	  <td><img src="https://www.iconpacks.net/icons/free-icons-7/free-icon-deepseek-black-white-circle-round-symbol-25660.png" width="50"><br><p>DeepseekAI</p></td>
 	  <td><img src="https://theislamicinformation.com/wp-content/uploads/2025/09/gemini-icon.webp" width="50"><br><p>GeminiAI</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>Vercel / AI SDK</p></td>
   </tr>
   <tr align="center">
 	 <td><img src="https://static.vecteezy.com/system/resources/previews/046/861/635/large_2x/copilot-icon-transparent-background-free-png.png" width="50"><br><p>CopilotAI</p></td>
-	 <td><img src="https://www.techspot.com/images2/downloads/topdownload/2025/05/2025-05-07-ts3_thumbs-d9f.png" width="50"><br><p>WindsurfAI</p></td>
 	 <td><img src="https://lasmejoresia.com/wp-content/uploads/2025/04/NotebookLM-logo-768x768.png" width="50"><br><p>NotebookLM</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/TestSprite.png" width="50"><br><p>TestSprite</p></td>
 	 <td><img src="https://pp.myapp.com/ma_icon/0/icon_54318686_1730108540/256" width="50"><br><p>ErnieAI</p></td>
