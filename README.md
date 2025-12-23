@@ -153,14 +153,14 @@
       <td><img src="https://skillicons.dev/icons?i=powershell" width="50"><br><p>Powershell</p></td>
       <td><img src="https://skillicons.dev/icons?i=linux" width="50"><br><p>Linux</p></td>
       <td><img src="https://skillicons.dev/icons?i=bash" width="50"><br><p>bash</p></td>
-      <td><img src="https://skillicons.dev/icons?i=notion" width="50"><br><p>Notion</p></td>
+  </tr>
+  <tr align="center">
+	  <td><img src="https://skillicons.dev/icons?i=notion" width="50"><br><p>Notion</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=git" width="50"><br><p>Git</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=github" width="50"><br><p>GitHub</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="50"><br><p>Trello</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=yarn" width="50"><br><p>yarn</p></td>
-  </tr>
-  <tr align="center">
 	 <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>Vite</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=redux" width="50"><br><p>Redux</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=pinia" width="50"><br><p>Pinia</p></td>
