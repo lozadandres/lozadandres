@@ -138,6 +138,8 @@
       <td><img src="https://skillicons.dev/icons?i=idea" width="50"><br><p>Idea</p></td>
       <td><img src="https://skillicons.dev/icons?i=pycharm" width="50"><br><p>pycharm</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=visualstudio" width="50"><br><p>Visual Studio</p></td>
+	  <td><img src="https://portafolio-andresloz-66.vercel.app/antigravity.png" width="50"><br><p>AntigravityAI</p></td>
+	  <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Traelogo.png" width="50"><br><p>TraeAI</p></td>
       <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=codepen" width="50"><br><p>codepen</p></td>
 	  <td><img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" width="50"><br><p>draw.io</p></td>
@@ -181,8 +183,6 @@
 	  <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>Vercel / AI SDK</p></td>
   </tr>
   <tr align="center">
-     <td><img src="https://portafolio-andresloz-66.vercel.app/antigravity.png" width="50"><br><p>AntigravityAI</p></td>
-	 <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Traelogo.png" width="50"><br><p>TraeAI</p></td>
 	 <td><img src="https://static.vecteezy.com/system/resources/previews/046/861/635/large_2x/copilot-icon-transparent-background-free-png.png" width="50"><br><p>CopilotAI</p></td>
 	 <td><img src="https://www.techspot.com/images2/downloads/topdownload/2025/05/2025-05-07-ts3_thumbs-d9f.png" width="50"><br><p>WindsurfAI</p></td>
 	 <td><img src="https://lasmejoresia.com/wp-content/uploads/2025/04/NotebookLM-logo-768x768.png" width="50"><br><p>NotebookLM</p></td>
