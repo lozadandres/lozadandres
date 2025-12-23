@@ -187,6 +187,7 @@
 	 <td><img src="https://www.techspot.com/images2/downloads/topdownload/2025/05/2025-05-07-ts3_thumbs-d9f.png" width="50"><br><p>WindsurfAI</p></td>
 	 <td><img src="https://lasmejoresia.com/wp-content/uploads/2025/04/NotebookLM-logo-768x768.png" width="50"><br><p>NotebookLM</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/TestSprite.png" width="50"><br><p>TestSprite</p></td>
+	 <td><img src="https://pp.myapp.com/ma_icon/0/icon_54318686_1730108540/256" width="50"><br><p>ERNIE</p></td>
   </tr>
 </table>
 
