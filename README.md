@@ -175,6 +175,8 @@
 	 <td><img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254425/swagger-icon-md.png" width="50"><br><p>Swagger</p></td>
 	  <td><img src="https://www.metaexplorer.co/images/logo.png" width="50"><br><p>MetaExplorer</p>
 	  <td><img src="https://chatgptaihub.com/wp-content/uploads/2023/06/ChatGpt-Logo-with-Black-Background-768x768.png" width="50"><br><p>ChatgptAI</p></td>
+  </tr>
+  <tr align="center">
 	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50"><br><p>ClaudeAI</p></td>
 	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-icon.png" width="50"><br><p>GrokAI</p></td>
 	  <td><img src="https://nelson.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcopilot.d56e4d15.png&w=640&q=100" width="50"><br><p>Github Copilot</p></td>
@@ -182,8 +184,6 @@
 	  <td><img src="https://www.iconpacks.net/icons/free-icons-7/free-icon-deepseek-black-white-circle-round-symbol-25660.png" width="50"><br><p>DeepseekAI</p></td>
 	  <td><img src="https://theislamicinformation.com/wp-content/uploads/2025/09/gemini-icon.webp" width="50"><br><p>GeminiAI</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>Vercel / AI SDK</p></td>
-  </tr>
-  <tr align="center">
 	 <td><img src="https://static.vecteezy.com/system/resources/previews/046/861/635/large_2x/copilot-icon-transparent-background-free-png.png" width="50"><br><p>CopilotAI</p></td>
 	 <td><img src="https://lasmejoresia.com/wp-content/uploads/2025/04/NotebookLM-logo-768x768.png" width="50"><br><p>NotebookLM</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/TestSprite.png" width="50"><br><p>TestSprite</p></td>
