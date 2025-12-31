@@ -238,7 +238,7 @@
     <td width="1100" valign="top">
         <br />
         <a target="_blank" href="#">
-            <img src="https://github.com/lozadandres/Gesti-n-de-Eventos/blob/main/Captura.png" width="100%" height="500" alt="App"/>
+            <img src="https://github.com/lozadandres/Gesti-n-de-Eventos/blob/main/frontend/public/paginaInicio.jpeg" width="100%" height="500" alt="App"/>
         </a>
 	<h3 align="center">App Gestión de Eventos</h3>
         <br />
