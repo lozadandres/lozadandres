@@ -301,13 +301,13 @@
     </td>
 	<td width="1100" valign="top">
         <br />
-        <a target="_blank" href="https://github.com/lozadandres/EcomercePGSQL">
-            <img src="https://raw.githubusercontent.com/Carlitos-quintero/Ecomerce_Game-V.3/main/frontend/public/Catalogo.jpeg" width="100%" height="500" alt="App"/>
+        <a target="_blank" href="https://github.com/lozadandres/Ecomerce_Game-V3">
+            <img src="https://github.com/lozadandres/Ecomerce_Game-V3/blob/main/frontend/public/catalogo.jpeg" width="100%" height="500" alt="App"/>
         </a>
 	    <h3 align="center">E-commerce con PostgreSQL y React</h3>
         <br />
         <p align="center">
-		<a href="https://github.com/lozadandres/EcomercePGSQL" target="_blank">
+		<a href="https://github.com/lozadandres/Ecomerce_Game-V3" target="_blank">
 			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 		</a>
       </p>
