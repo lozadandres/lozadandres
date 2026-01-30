@@ -218,12 +218,12 @@
     <td width="1100" valign="top">
       <h3 align="center">MathSolver AI - Asistente matemático</h3>
         <br />
-        <a target="_blank" href="#">
+        <a target="_blank" href="https://github.com/lozadandres/MathSolver_AI-V2">
             <img src="https://raw.githubusercontent.com/lozadandres/MathSolver_AI-V2/refs/heads/master/frontend/public/inicio.png" width="100%" height="500" alt="App"/>
         </a>
         <br />
         <p align="center">
-		<a href="https://github.com/lozadandres/MathSolver_AI" target="_blank">
+		<a href="https://github.com/lozadandres/MathSolver_AI-V2" target="_blank">
 			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 		</a>  
       </p>
