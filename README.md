@@ -188,6 +188,7 @@
 	  <td><img src="https://crystalpng.com/wp-content/uploads/2025/02/Qwen-06-768x768.png" width="50"><br><p>QwenAI</p></td>
   </tr>
   <tr align="center">
+	  <td><img src="https://mintcdn.com/zhipu-32152247/B_E8wI-eiNa1QlPV/logo/light.svg?fit=max&auto=format&n=B_E8wI-eiNa1QlPV&q=85&s=c1ecf1af358fa8eeab8c06052337f8f6" width="50"><br><p>zAI</p></td>
 	  <td><img src="https://static.vecteezy.com/system/resources/previews/046/861/635/large_2x/copilot-icon-transparent-background-free-png.png" width="50"><br><p>CopilotAI</p></td>
 	  <td><img src="https://lasmejoresia.com/wp-content/uploads/2025/04/NotebookLM-logo-768x768.png" width="50"><br><p>NotebookLM</p></td>
 	  <td><img src="https://portafolio-andresloz-66.vercel.app/TestSprite.png" width="50"><br><p>TestSprite</p></td>
