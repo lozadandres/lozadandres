@@ -218,12 +218,12 @@
 		<td width="1100" valign="top">
 			<h3 align="center">Cerebrum - Plataforma PI</h3>
 			<br />
-	        <a target="_blank" href="#">
+	        <a target="_blank" href="https://github.com/lozadandres/Cerebrum-Plataforma-PI">
 	            <img src="https://portafolio-andresloz-66.vercel.app/kardex.png" width="100%" height="1000" alt="App"/>
 	        </a>
 	        <br />
 	        <p align="center">
-			<a href="#" target="_blank">
+			<a href="https://github.com/lozadandres/Cerebrum-Plataforma-PI" target="_blank">
 				<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 			</a>  
 	      </p>
