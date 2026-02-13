@@ -211,6 +211,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+<h2>Experiencia profesional<h2>
+	
+<table>
+	<tr>
+		<td width="1100" valign="top">
+			<h3 align="center">Cerebrum - Plataforma PI</h3>
+			<br />
+	        <a target="_blank" href="#">
+	            <img src="https://portafolio-andresloz-66.vercel.app/kardex.png" width="100%" height="1000" alt="App"/>
+	        </a>
+	        <br />
+	        <p align="center">
+			<a href="#" target="_blank">
+				<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+			</a>  
+	      </p>
+		</td>
+	</tr>
+<table>
+	
 <h2>⚙️ Proyectos Destacados</h2>
 
 <table>
