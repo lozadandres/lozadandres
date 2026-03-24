@@ -85,7 +85,7 @@
   </tr>
   <tr align="center">
       <td><img src="https://portafolio-andresloz-66.vercel.app/sqllogo.png" width="50"><br><p>SQL</p></td>
-	  <td><img src="https://firebasestorage.googleapis.com/v0/b/cristian-gonzalez.appspot.com/o/tecnologies%2Fjwt.svg?alt=media&token=a25fbe3c-da09-4c0e-a398-27700a4d3b55" width="50"><br><p>JWT</p></td>
+	  <td><img src="https://www.kognitos.com/wp-content/uploads/2025/05/Auth0_512x512-1.png" width="50"><br><p>Auth0 JWT</p></td>
   </tr>
 </table>
 
