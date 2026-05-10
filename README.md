@@ -196,6 +196,7 @@
 	  <td><img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/180/h/180/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740053459852" width="50"><br><p>Ollama</p</td>
 	  <td><img src="https://opencode.ai/_build/assets/opencode-desktop-icon-OSkS5hfD.png" width="50"><br><p>OpenCode</p></td>
 	  <td><img src="https://img.halotool.com/icons/codex-by-openai_8d306254.png" width="50"><br><p>Codex</p></td>
+	  <td><img src="https://lmstudio.ai/assets/android-chrome-512x512.png" width="50"><br><p>LMstudio</p></td>
   </tr>
 </table>
 
