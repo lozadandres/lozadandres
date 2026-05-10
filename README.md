@@ -204,6 +204,7 @@
 	  <td><img src="https://developers.google.com/static/focus/images/ai-studio-icon.png" width="50"><br><p>GoogleAI Studio</p></td>
 	  <td><img src="https://vectorseek.com/wp-content/uploads/2025/03/Huggingface-Logo-PNG-SVG-Vector.png" width="50"><br><p>Hugging face</p></td>
 	  <td><img src="https://ph-files.imgix.net/1281dffc-89cc-4fc8-b3fe-9319d27af72e.png?auto=format" width="50"><br><p>Chat2DB</p></td>
+	  <td><img src="https://chartdb.mirea.dev/buckle.png" width="50"><br><p>ChartDB</p></td>
   </tr>
 </table>
 
