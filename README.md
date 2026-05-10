@@ -201,6 +201,8 @@
   <tr align="center">
 	  <td><img src="https://raw.githubusercontent.com/cometapi-dev/.github/main/assets/integrations/ragflow.png" width="50"><br><p>Ragflow</p></td>
 	  <td><img src="https://avatars.githubusercontent.com/u/139423088?s=280&v=4" width="50"><br><p>Openrouter</p></td>
+	  <td><img src="https://allesora.com/wp-content/uploads/images-11.png" width="50"><br><p>GoogleAI Studio</p></td>
+	  <td><img src="https://vectorseek.com/wp-content/uploads/2025/03/Huggingface-Logo-PNG-SVG-Vector.png" width="50"><br><p>Hugging face</p></td>
   </tr>
 </table>
 
