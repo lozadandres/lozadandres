@@ -193,6 +193,9 @@
 	  <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/41/48/0941481d-5564-ccb1-ce82-3d19cffd73f0/Placeholder.mill/400x400bb-75.webp" width="50"><br><p>NotebookLM</p></td>
 	  <td><img src="https://portafolio-andresloz-66.vercel.app/TestSprite.png" width="50"><br><p>TestSprite</p></td>
 	  <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openclaw.png" width="50"><br><p>OpenClaw</p></td>
+	  <td><img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/180/h/180/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740053459852" width="50"><br><p>Ollama</p</td>
+	  <td><img src="https://opencode.ai/_build/assets/opencode-desktop-icon-OSkS5hfD.png" width="50"><br><p>OpenCode</p></td>
+	  <td><img src="https://img.halotool.com/icons/codex-by-openai_8d306254.png" width="50"><br><p>Codex</p></td>
   </tr>
 </table>
 
