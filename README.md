@@ -126,7 +126,7 @@
 <table>
   <tr align="center">
 	  <td><img src="https://skillicons.dev/icons?i=postman" width="50"><br><p>Postman</p></td>
-	  <td><img src="https://assets.apidog.com/static/fast-request-www/images/icon-apidog-footer.png" width="50"><br><p>Apidog</p></td>
+	  <td><img src="https://apidog.com/favicon.ico" width="50"><br><p>Apidog</p></td>
   </tr>
 </table>
 
