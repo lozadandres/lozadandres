@@ -230,7 +230,7 @@
 	  <td><img src="https://weaviate.io/img/site/W-logo-3d-shadow.png" width="50"><br><p>Weaviate Verba</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=obsidian" width="50"><br><p>obsidian</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=stackoverflow" width="50"><br><p>stackoverflow</p></td>
-	  <td><img src="https://tse1.mm.bing.net/th/id/OIP.e4qSTWN4DyzJ7GqmpNPnzQAAAA?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3" width="50"><br><p>Homebrew Mac</p></td>
+	  <td><img src="https://miro.medium.com/v2/resize:fit:256/1*CBCWQowzYqU83B0capCTQA.png" width="50"><br><p>Homebrew Mac</p></td>
   </tr>
 </table>
 
