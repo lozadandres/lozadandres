@@ -228,6 +228,8 @@
 	  <td><img src="https://www.open-notebook.ai/hero.svg" width="50"><br><p>OpenNotebookLM</p></td>
 	  <td><img src="https://openwebui.com/favicon.png" width="50"><br><p>Open WebUI</p></td>
 	  <td><img src="https://weaviate.io/img/site/W-logo-3d-shadow.png" width="50"><br><p>Weaviate Verba</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=obsidian" width="50"><br><p>Idea</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=stackoverflow" width="50"><br><p>Idea</p></td>
   </tr>
 </table>
 
