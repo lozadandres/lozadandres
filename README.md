@@ -120,6 +120,8 @@
 <table>
   <tr align="center">
 	  <td><img src="https://skillicons.dev/icons?i=jest" width="50"><br><p>Jest</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=cypress" width="50"><br><p>cypress</p></td>
+	  <td><img src="https://www.ssid.fr/wp-content/uploads/2024/03/playwright-logo-22FA8B9E63-seeklogo.com_.png" width="50"><br><p>Playwright</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=vitest" width="50"><br><p>Vitest</p></td>
   </tr>
 </table>
