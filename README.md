@@ -104,6 +104,14 @@
   </tr>
 </table>
 
+### Cloud Servers
+<table>
+  <tr align="center">
+     <td><img src="https://skillicons.dev/icons?i=aws" width="50"><br><p>AWS</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=cloudflare" width="50"><br><p>Cloudflare</p></td>
+  </tr>
+</table>
+
 ### 🧪 Testing Tools
 
 ##### 🔹 Unit & Integration Testing
@@ -207,6 +215,7 @@
 	  <td><img src="https://images.seeklogo.com/logo-png/47/2/strapi-icon-logo-png_seeklogo-477947.png" width="50"><br><p>Strapi CMS</p></td>
 	  <td><img src="https://framerusercontent.com/images/dTPZHBNa8CveXe69PwcOLb363mM.png" width="50"><br><p>Tailscale</p></td>
 	  <td><img src="https://chartdb.mirea.dev/buckle.png" width="50"><br><p>ChartDB</p></td>
+	  <td><img src="https://freelogopng.com/images/all_img/1685814539stripe-icon-png.png" width="50"><br><p>Stripe</p></td>
   </tr>
 </table>
 
