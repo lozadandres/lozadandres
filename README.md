@@ -217,6 +217,10 @@
 	  <td><img src="https://chartdb.mirea.dev/buckle.png" width="50"><br><p>ChartDB</p></td>
 	  <td><img src="https://freelogopng.com/images/all_img/1685814539stripe-icon-png.png" width="50"><br><p>Stripe</p></td>
   </tr>
+  <tr align="center">
+	  <td><img src="https://fiqon.com.br/wp-content/uploads/2025/04/cloud-api.png" width="50"><br><p>CloudApi</p></td>
+	  <td><img src="https://fiqon.com.br/wp-content/uploads/2025/04/evolution-api-2.png" width="50"><br><p>EvolutionApi</p></td>
+  </tr>
 </table>
 
 ### Tecnologías y Herramientas en Aprendizaje
