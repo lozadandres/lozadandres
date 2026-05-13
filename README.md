@@ -153,9 +153,11 @@
 	  <td><img src="https://portafolio-andresloz-66.vercel.app/antigravity.png" width="50"><br><p>AntigravityAI</p></td>
 	  <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Traelogo.png" width="50"><br><p>TraeAI</p></td>
 	  <td><img src="https://raw.githubusercontent.com/kirodotdev/Kiro/refs/heads/main/assets/kiro-icon.png" width="50"><br><p>Kiro</p></td>
-	  <td><img src="https://www.techspot.com/images2/downloads/topdownload/2025/05/2025-05-07-ts3_thumbs-d9f.png" width="50"><br><p>WindsurfAI</p></td>
   </tr>
   <tr align="center">
+	  <td><img src="https://www.techspot.com/images2/downloads/topdownload/2025/05/2025-05-07-ts3_thumbs-d9f.png" width="50"><br><p>WindsurfAI</p></td>
+	  <td><img src="https://opencode.ai/_build/assets/opencode-desktop-icon-OSkS5hfD.png" width="50"><br><p>OpenCode</p></td>
+	  <td><img src="https://img.halotool.com/icons/codex-by-openai_8d306254.png" width="50"><br><p>Codex</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=codepen" width="50"><br><p>codepen</p></td>
 	  <td><img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" width="50"><br><p>draw.io</p></td>
@@ -207,8 +209,6 @@
 	  <td><img src="https://portafolio-andresloz-66.vercel.app/TestSprite.png" width="50"><br><p>TestSprite</p></td>
 	  <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openclaw.png" width="50"><br><p>OpenClaw</p></td>
 	  <td><img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/180/h/180/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740053459852" width="50"><br><p>Ollama</p</td>
-	  <td><img src="https://opencode.ai/_build/assets/opencode-desktop-icon-OSkS5hfD.png" width="50"><br><p>OpenCode</p></td>
-	  <td><img src="https://img.halotool.com/icons/codex-by-openai_8d306254.png" width="50"><br><p>Codex</p></td>
 	  <td><img src="https://lmstudio.ai/assets/android-chrome-512x512.png" width="50"><br><p>LMstudio</p></td>
   </tr>
   <tr align="center">
