@@ -176,6 +176,8 @@
   </tr>
   <tr align="center">
 	  <td><img src="https://skillicons.dev/icons?i=github" width="50"><br><p>GitHub</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=obsidian" width="50"><br><p>obsidian</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=stackoverflow" width="50"><br><p>stackoverflow</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="50"><br><p>Trello</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=yarn" width="50"><br><p>yarn</p></td>
@@ -229,8 +231,6 @@
 	  <td><img src="https://www.open-notebook.ai/hero.svg" width="50"><br><p>OpenNotebookLM</p></td>
 	  <td><img src="https://openwebui.com/favicon.png" width="50"><br><p>Open WebUI</p></td>
 	  <td><img src="https://weaviate.io/img/site/W-logo-3d-shadow.png" width="50"><br><p>Weaviate Verba</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=obsidian" width="50"><br><p>obsidian</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=stackoverflow" width="50"><br><p>stackoverflow</p></td>
   </tr>
 </table>
 
