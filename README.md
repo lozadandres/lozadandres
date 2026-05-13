@@ -215,13 +215,13 @@
 	  <td><img src="https://mintcdn.com/zhipu-32152247/B_E8wI-eiNa1QlPV/logo/light.svg?fit=max&auto=format&n=B_E8wI-eiNa1QlPV&q=85&s=c1ecf1af358fa8eeab8c06052337f8f6" width="50"><br><p>zAI</p></td>
 	  <td><img src="https://static.vecteezy.com/system/resources/previews/046/861/635/large_2x/copilot-icon-transparent-background-free-png.png" width="50"><br><p>CopilotAI</p></td>
 	  <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openclaw.png" width="50"><br><p>OpenClaw</p></td>
-	  <td><img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/180/h/180/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740053459852" width="50"><br><p>Ollama</p</td>
-	  <td><img src="https://lmstudio.ai/assets/android-chrome-512x512.png" width="50"><br><p>LMstudio</p></td>
   </tr>
   <tr align="center">
 	  <td><img src="https://developers.google.com/static/focus/images/ai-studio-icon.png" width="50"><br><p>GoogleAI Studio</p></td>
 	  <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>Gemini CLI</p></td>
 	  <td><img src="https://avatars.githubusercontent.com/u/139423088?s=280&v=4" width="50"><br><p>Openrouter</p></td>
+	  <td><img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/180/h/180/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740053459852" width="50"><br><p>Ollama</p</td>
+	  <td><img src="https://lmstudio.ai/assets/android-chrome-512x512.png" width="50"><br><p>LMstudio</p></td>
 	  <td><img src="https://raw.githubusercontent.com/cometapi-dev/.github/main/assets/integrations/ragflow.png" width="50"><br><p>Ragflow</p></td>
 	  <td><img src="https://weaviate.io/img/site/W-logo-3d-shadow.png" width="50"><br><p>Weaviate Verba</p></td>
 	  <td><img src="https://www.open-notebook.ai/hero.svg" width="50"><br><p>OpenNotebookLM</p></td>
