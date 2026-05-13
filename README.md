@@ -163,6 +163,8 @@
 	  <td><img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" width="50"><br><p>draw.io</p></td>
 	  <td><img src="https://cdn-1.webcatalog.io/catalog/lucidchart/lucidchart-icon.png" width="50"><br><p>Lucidchart</p></td>
 	  <td><img src="https://images.opencollective.com/drawdb/5252d15/logo/256.png" width="50"><br><p>Drawdb</p></td>
+	  <td><img src="https://ph-files.imgix.net/1281dffc-89cc-4fc8-b3fe-9319d27af72e.png?auto=format" width="50"><br><p>Chat2DB</p></td>
+	   <td><img src="https://chartdb.mirea.dev/buckle.png" width="50"><br><p>ChartDB</p></td>
       <td><img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="50"><br><p>xampp</p></td>
       <td><img src="https://skillicons.dev/icons?i=powershell" width="50"><br><p>Powershell</p></td>
       <td><img src="https://skillicons.dev/icons?i=linux" width="50"><br><p>Linux</p></td>
@@ -216,10 +218,8 @@
 	  <td><img src="https://avatars.githubusercontent.com/u/139423088?s=280&v=4" width="50"><br><p>Openrouter</p></td>
 	  <td><img src="https://developers.google.com/static/focus/images/ai-studio-icon.png" width="50"><br><p>GoogleAI Studio</p></td>
 	  <td><img src="https://vectorseek.com/wp-content/uploads/2025/03/Huggingface-Logo-PNG-SVG-Vector.png" width="50"><br><p>Hugging face</p></td>
-	  <td><img src="https://ph-files.imgix.net/1281dffc-89cc-4fc8-b3fe-9319d27af72e.png?auto=format" width="50"><br><p>Chat2DB</p></td>
 	  <td><img src="https://images.seeklogo.com/logo-png/47/2/strapi-icon-logo-png_seeklogo-477947.png" width="50"><br><p>Strapi CMS</p></td>
 	  <td><img src="https://framerusercontent.com/images/dTPZHBNa8CveXe69PwcOLb363mM.png" width="50"><br><p>Tailscale</p></td>
-	  <td><img src="https://chartdb.mirea.dev/buckle.png" width="50"><br><p>ChartDB</p></td>
 	  <td><img src="https://freelogopng.com/images/all_img/1685814539stripe-icon-png.png" width="50"><br><p>Stripe</p></td>
   </tr>
   <tr align="center">
