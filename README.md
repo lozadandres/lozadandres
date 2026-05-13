@@ -199,6 +199,8 @@
 	  <td><img src="https://freelogopng.com/images/all_img/1685814539stripe-icon-png.png" width="50"><br><p>Stripe</p></td>
 	  <td><img src="https://framerusercontent.com/images/dTPZHBNa8CveXe69PwcOLb363mM.png" width="50"><br><p>Tailscale</p></td>
 	  <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
+	  <td><img src="https://vectorseek.com/wp-content/uploads/2025/03/Huggingface-Logo-PNG-SVG-Vector.png" width="50"><br><p>Hugging face</p></td>
+	  <td><img src="https://developers.google.com/static/focus/images/ai-studio-icon.png" width="50"><br><p>GoogleAI Studio</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>Gemini CLI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/jules.png" width="80"><br><p>Jules</p></td>
 	 <td><img src="https://avatars.githubusercontent.com/u/183290039?s=280&v=4" width="80"><br><p>QodoAI</p></td>
@@ -221,8 +223,6 @@
   <tr align="center">
 	  <td><img src="https://raw.githubusercontent.com/cometapi-dev/.github/main/assets/integrations/ragflow.png" width="50"><br><p>Ragflow</p></td>
 	  <td><img src="https://avatars.githubusercontent.com/u/139423088?s=280&v=4" width="50"><br><p>Openrouter</p></td>
-	  <td><img src="https://developers.google.com/static/focus/images/ai-studio-icon.png" width="50"><br><p>GoogleAI Studio</p></td>
-	  <td><img src="https://vectorseek.com/wp-content/uploads/2025/03/Huggingface-Logo-PNG-SVG-Vector.png" width="50"><br><p>Hugging face</p></td>
   </tr>
   <tr align="center">
 	  <td><img src="https://fiqon.com.br/wp-content/uploads/2025/04/cloud-api.png" width="50"><br><p>CloudApi</p></td>
