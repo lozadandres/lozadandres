@@ -172,10 +172,11 @@
 	  <td><img src="https://skillicons.dev/icons?i=github" width="50"><br><p>GitHub</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="50"><br><p>Trello</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
-	 <td><img src="https://skillicons.dev/icons?i=yarn" width="50"><br><p>yarn</p></td>
-	 <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>Vite</p></td>
-	 <td><img src="https://skillicons.dev/icons?i=redux" width="50"><br><p>Redux</p></td>
-	 <td><img src="https://skillicons.dev/icons?i=pinia" width="50"><br><p>Pinia</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=yarn" width="50"><br><p>yarn</p></td>
+	  <td><img src="https://miro.medium.com/v2/resize:fit:256/1*CBCWQowzYqU83B0capCTQA.png" width="50"><br><p>Homebrew Mac</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>Vite</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=redux" width="50"><br><p>Redux</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=pinia" width="50"><br><p>Pinia</p></td>
   </tr>
   <tr align="center">
 	  <td><img src="https://th.bing.com/th/id/R.329b4dc9e966505948975721c7ac159c?rik=g6YXHOp0CaAomg&riu=http%3a%2f%2fpic.962.net%2fup%2f2024-7%2f2024791010472701.png&ehk=L7B2%2fHa2ULBv9IIPHJX8nCwCOrnMYmhxzFR3nEbep98%3d&risl=&pid=ImgRaw&r=0" width="50"><br><p>Google PageSpeed</p>
@@ -230,7 +231,6 @@
 	  <td><img src="https://weaviate.io/img/site/W-logo-3d-shadow.png" width="50"><br><p>Weaviate Verba</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=obsidian" width="50"><br><p>obsidian</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=stackoverflow" width="50"><br><p>stackoverflow</p></td>
-	  <td><img src="https://miro.medium.com/v2/resize:fit:256/1*CBCWQowzYqU83B0capCTQA.png" width="50"><br><p>Homebrew Mac</p></td>
   </tr>
 </table>
 
