@@ -223,6 +223,8 @@
 	  <td><img src="https://avatars.githubusercontent.com/u/139423088?s=280&v=4" width="50"><br><p>Openrouter</p></td>
 	  <td><img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/180/h/180/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740053459852" width="50"><br><p>Ollama</p</td>
 	  <td><img src="https://lmstudio.ai/assets/android-chrome-512x512.png" width="50"><br><p>LMstudio</p></td>
+  </tr>
+  <tr align="center">
 	  <td><img src="https://raw.githubusercontent.com/cometapi-dev/.github/main/assets/integrations/ragflow.png" width="50"><br><p>Ragflow</p></td>
 	  <td><img src="https://weaviate.io/img/site/W-logo-3d-shadow.png" width="50"><br><p>Weaviate Verba</p></td>
 	  <td><img src="https://www.open-notebook.ai/hero.svg" width="50"><br><p>OpenNotebookLM</p></td>
