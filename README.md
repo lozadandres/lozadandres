@@ -193,7 +193,12 @@
 	 <td><img src="https://vectorseek.com/wp-content/uploads/2023/08/Swagger-Logo-Vector.svg-.png" width="50"><br><p>Swagger</p></td>
 	 <td><img src="https://www.metaexplorer.co/images/logo.png" width="50"><br><p>MetaExplorer</p>
 	 <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>Vercel / AI SDK</p></td>
-	 <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
+  </tr>
+  <tr align="center">
+	  <td><img src="https://images.seeklogo.com/logo-png/47/2/strapi-icon-logo-png_seeklogo-477947.png" width="50"><br><p>Strapi CMS</p></td>
+	  <td><img src="https://freelogopng.com/images/all_img/1685814539stripe-icon-png.png" width="50"><br><p>Stripe</p></td>
+	  <td><img src="https://framerusercontent.com/images/dTPZHBNa8CveXe69PwcOLb363mM.png" width="50"><br><p>Tailscale</p></td>
+	  <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>Gemini CLI</p></td>
 	 <td><img src="https://portafolio-andresloz-66.vercel.app/jules.png" width="80"><br><p>Jules</p></td>
 	 <td><img src="https://avatars.githubusercontent.com/u/183290039?s=280&v=4" width="80"><br><p>QodoAI</p></td>
@@ -206,8 +211,6 @@
 	  <td><img src="https://theislamicinformation.com/wp-content/uploads/2025/09/gemini-icon.webp" width="50"><br><p>GeminiAI</p></td>
 	  <td><img src="https://pp.myapp.com/ma_icon/0/icon_54318686_1730108540/256" width="50"><br><p>ErnieAI</p></td>
 	  <td><img src="https://crystalpng.com/wp-content/uploads/2025/02/Qwen-06-768x768.png" width="50"><br><p>QwenAI</p></td>
-  </tr>
-  <tr align="center">
 	  <td><img src="https://mintcdn.com/zhipu-32152247/B_E8wI-eiNa1QlPV/logo/light.svg?fit=max&auto=format&n=B_E8wI-eiNa1QlPV&q=85&s=c1ecf1af358fa8eeab8c06052337f8f6" width="50"><br><p>zAI</p></td>
 	  <td><img src="https://static.vecteezy.com/system/resources/previews/046/861/635/large_2x/copilot-icon-transparent-background-free-png.png" width="50"><br><p>CopilotAI</p></td>
 	  <td><img src="https://portafolio-andresloz-66.vercel.app/TestSprite.png" width="50"><br><p>TestSprite</p></td>
@@ -220,9 +223,6 @@
 	  <td><img src="https://avatars.githubusercontent.com/u/139423088?s=280&v=4" width="50"><br><p>Openrouter</p></td>
 	  <td><img src="https://developers.google.com/static/focus/images/ai-studio-icon.png" width="50"><br><p>GoogleAI Studio</p></td>
 	  <td><img src="https://vectorseek.com/wp-content/uploads/2025/03/Huggingface-Logo-PNG-SVG-Vector.png" width="50"><br><p>Hugging face</p></td>
-	  <td><img src="https://images.seeklogo.com/logo-png/47/2/strapi-icon-logo-png_seeklogo-477947.png" width="50"><br><p>Strapi CMS</p></td>
-	  <td><img src="https://framerusercontent.com/images/dTPZHBNa8CveXe69PwcOLb363mM.png" width="50"><br><p>Tailscale</p></td>
-	  <td><img src="https://freelogopng.com/images/all_img/1685814539stripe-icon-png.png" width="50"><br><p>Stripe</p></td>
   </tr>
   <tr align="center">
 	  <td><img src="https://fiqon.com.br/wp-content/uploads/2025/04/cloud-api.png" width="50"><br><p>CloudApi</p></td>
