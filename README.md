@@ -239,6 +239,14 @@
 	  <td><img src="https://fiqon.com.br/wp-content/uploads/2025/04/evolution-api-2.png" width="50"><br><p>EvolutionApi</p></td>
 	  <td><img src="https://propuskator.com/wp-content/uploads/2021/06/upravlenie-ustrojstvami-2smart-cloud-s-pomoshhyu-telegram-bota.png" width="50"><br><p>TelegramBot</p></td>
   </tr>
+  <tr align="center">
+	  <td><img src="https://www.apache.org/foundation/press/kit/feather.png" width="50"><br><p>Apache</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=nginx" width="50"><br><p>Redis</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=prometheus" width="50"><br><p>prometheus</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=grafana" width="50"><br><p>grafana</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=jenkins" width="50"><br><p>jenkins</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=threejs" width="50"><br><p>threejs</p></td>
+  </tr>
 </table>
 
 ### Tecnologías y Herramientas en Aprendizaje
