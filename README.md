@@ -241,7 +241,7 @@
   </tr>
   <tr align="center">
 	  <td><img src="https://www.apache.org/foundation/press/kit/feather.png" width="50"><br><p>Apache</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=nginx" width="50"><br><p>Redis</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=nginx" width="50"><br><p>nginx</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=prometheus" width="50"><br><p>prometheus</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=grafana" width="50"><br><p>grafana</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=jenkins" width="50"><br><p>jenkins</p></td>
