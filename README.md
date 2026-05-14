@@ -23,6 +23,18 @@
 
 <br>
 
+<div align="center">
+	<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 
