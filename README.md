@@ -231,6 +231,7 @@
   </tr>
   <tr align="center">
 	  <td><img src="https://mintcdn.com/zhipu-32152247/B_E8wI-eiNa1QlPV/logo/light.svg?fit=max&auto=format&n=B_E8wI-eiNa1QlPV&q=85&s=c1ecf1af358fa8eeab8c06052337f8f6" width="50"><br><p>zAI</p></td>
+	  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/MiniMax.png/250px-MiniMax.png" width="50"><br><p>MiniMax</p></td>
 	  <td><img src="https://static.vecteezy.com/system/resources/previews/046/861/635/large_2x/copilot-icon-transparent-background-free-png.png" width="50"><br><p>CopilotAI</p></td>
 	  <td><img src="https://avatars.githubusercontent.com/u/139423088?s=280&v=4" width="50"><br><p>Openrouter</p></td>
 	  <td><img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/180/h/180/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740053459852" width="50"><br><p>Ollama</p</td>
