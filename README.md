@@ -234,20 +234,22 @@
 	  <td><img src="https://m.media-amazon.com/images/I/516wN2fmJTL.png" width="50"><br><p>MiniMax</p></td>
 	  <td><img src="https://static.vecteezy.com/system/resources/previews/046/861/635/large_2x/copilot-icon-transparent-background-free-png.png" width="50"><br><p>CopilotAI</p></td>
 	  <td><img src="https://avatars.githubusercontent.com/u/139423088?s=280&v=4" width="50"><br><p>Openrouter</p></td>
-	  <td><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/gemma-color.png" width="50"><br><p>Gemma</p></td>
 	  <td><img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/180/h/180/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740053459852" width="50"><br><p>Ollama</p</td>
 	  <td><img src="https://lmstudio.ai/assets/android-chrome-512x512.png" width="50"><br><p>LMstudio</p></td>
-	  <td><img src="https://raw.githubusercontent.com/cometapi-dev/.github/main/assets/integrations/ragflow.png" width="50"><br><p>Ragflow</p></td>
-	  <td><img src="https://weaviate.io/img/site/W-logo-3d-shadow.png" width="50"><br><p>Weaviate Verba</p></td>
+	  <td><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/gemma-color.png" width="50"><br><p>Gemma</p></td>
 	  <td><img src="https://www.open-notebook.ai/hero.svg" width="50"><br><p>OpenNotebookLM</p></td>
   </tr>
   <tr align="center">
+	  <td><img src="https://raw.githubusercontent.com/cometapi-dev/.github/main/assets/integrations/ragflow.png" width="50"><br><p>Ragflow</p></td>
+	  <td><img src="https://weaviate.io/img/site/W-logo-3d-shadow.png" width="50"><br><p>Weaviate Verba</p></td>
 	  <td><img src="https://openwebui.com/favicon.png" width="50"><br><p>Open WebUI</p></td>
 	  <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openclaw.png" width="50"><br><p>OpenClaw</p></td>
 	  <td><img src="https://cdn.hermesagents.net/public/images/hermes-avatar.png" width="50"><br><p>hermes agent</p></td>
 	  <td><img src="https://fiqon.com.br/wp-content/uploads/2025/04/cloud-api.png" width="50"><br><p>CloudApi</p></td>
 	  <td><img src="https://fiqon.com.br/wp-content/uploads/2025/04/evolution-api-2.png" width="50"><br><p>EvolutionApi</p></td>
 	  <td><img src="https://propuskator.com/wp-content/uploads/2021/06/upravlenie-ustrojstvami-2smart-cloud-s-pomoshhyu-telegram-bota.png" width="50"><br><p>TelegramBot</p></td>
+  </tr>
+  <tr align="center">
 	  <td><img src="https://skillicons.dev/icons?i=threejs" width="50"><br><p>threejs</p></td>
   </tr>
 </table>
