@@ -246,6 +246,7 @@
 	  <td><img src="https://skillicons.dev/icons?i=grafana" width="50"><br><p>grafana</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=jenkins" width="50"><br><p>jenkins</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=threejs" width="50"><br><p>threejs</p></td>
+	  <td><img src="https://cdn.hermesagents.net/public/images/hermes-avatar.png" width="50"><br><p>hermes agent</p></td>
   </tr>
 </table>
 
