@@ -35,21 +35,21 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 <p>
-	Mi nombre es Andrés Felipe Lozada Manzano, soy un desarrollador apasionado por la creación de aplicaciones limpias y con funcionalidades intuitivas. Me motiva transformar ideas en productos digitales,
-	aplicando soluciones creativas que mejoren la experiencia del usuario. Mi curiosidad constante me lleva a aprender nuevas habilidades, explorar herramientas innovadoras y profundizar en conceptos
-	tecnológicos.
+    ¡Hola! Mi nombre es <strong>Andrés Felipe Lozada Manzano</strong>. Soy un Desarrollador Full-Stack apasionado por la arquitectura limpia, el diseño de sistemas eficientes y la creación de interfaces intuitivas que transforman ideas complejas en productos digitales de alto impacto. 
 </p>
 
 <p>
-	Cuento con un título de Técnico en Sistemas, lo que me ha proporcionado una sólida base en programación, gestión de bases de datos y redes. Actualmente, estoy estudiando Programación de Software,
-	fortaleciendo mis conocimientos y habilidades. Esta formación se complementa con mi experiencia autodidacta, permitiéndome abordar proyectos desde una perspectiva integral, que abarca desde la
-	conceptualización hasta la implementación final.
+    Mi trayectoria equilibra la rigurosidad de entornos corporativos en producción con más de 2 años de desarrollo independiente, experiencia que me ha permitido asumir el ciclo de vida completo del software: desde la conceptualización y el modelado lógico (UML, POO) hasta el despliegue y la optimización. Cuento con un título de Técnico en Sistemas y una sólida formación en desarrollo de software, lo que impulsa mi capacidad para resolver problemas complejos de manera autónoma y colaborar eficientemente en equipos ágiles.
 </p>
+
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
+
 <p>
-	He trabajado en varios proyectos en solitario y de manera colaborativa, lo que me ha permitido desarrollar una fuerte capacidad para resolver problemas de manera independiente, 
-	así como habilidades de trabajo en equipo para gestionar el ciclo de vida del desarrollo de software. Mi objetivo es seguir avanzando como desarrollador, 
-	contribuyendo con soluciones que no solo cumplan con las expectativas, sino que también marquen una diferencia significativa en el mundo digital.
+    Me especializo en dos ecosistemas principales: el entorno empresarial de <strong>.NET (C#, ASP.NET Core, Blazor Server)</strong> y el dinamismo de <strong>JavaScript/TypeScript (React, Next.js, Node.js)</strong>, utilizando bases de datos robustas como PostgreSQL y MongoDB. 
+</p>
+
+<p>
+    Además, soy un firme creyente del desarrollo aumentado por tecnología: diseño e integro soluciones avanzadas de <strong>Inteligencia Artificial (arquitecturas RAG, orquestación de agentes autónomos y LLMs)</strong> para optimizar procesos y llevar las aplicaciones al siguiente nivel de innovación. Mi objetivo es seguir construyendo software que no solo cumpla con los requerimientos, sino que marque una diferencia significativa en el ecosistema digital.
 </p>
 
 <h2 font-weight="bold"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture>𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
