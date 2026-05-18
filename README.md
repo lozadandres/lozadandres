@@ -93,6 +93,7 @@
   <tr align="center">
       <td><img src="https://portafolio-andresloz-66.vercel.app/sqllogo.png" width="50"><br><p>SQL</p></td>
 	  <td><img src="https://www.kognitos.com/wp-content/uploads/2025/05/Auth0_512x512-1.png" width="50"><br><p>Auth0 JWT</p></td>
+	  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="50"><br><p>Json</p></td>
   </tr>
 </table>
 
