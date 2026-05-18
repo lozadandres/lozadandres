@@ -273,7 +273,7 @@ VirtualBox</p></td>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-<h2>Experiencia profesional<h2>
+<h2>💼 Proyectos Destacados y Soluciones en Producción<h2>
 	
 <table>
 	<tr>
@@ -292,8 +292,6 @@ VirtualBox</p></td>
 		</td>
 	</tr>
 <table>
-	
-<h2>⚙️ Proyectos Destacados</h2>
 
 <table>
   
