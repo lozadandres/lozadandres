@@ -265,7 +265,7 @@ VirtualBox</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=redis" width="50"><br><p>Redis</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=githubactions" width="50"><br><p>Github Actions</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=ubuntu" width="50"><br><p>Ubuntu</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=windows" width="50"><br><p>Redis</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=windows" width="50"><br><p>Windows</p></td>
   </tr>
 </table>
 
