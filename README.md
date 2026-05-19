@@ -251,7 +251,7 @@
 	  <td><img src="https://weaviate.io/img/site/W-logo-3d-shadow.png" width="50"><br><p>Weaviate Verba</p></td>
 	  <td><img src="https://openwebui.com/favicon.png" width="50"><br><p>Open WebUI</p></td>
 	  <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openclaw.png" width="50"><br><p>OpenClaw</p></td>
-	  <td><img src="https://cdn.hermesagents.net/public/images/hermes-avatar.png" width="50"><br><p>hermes agent</p></td>
+	  <td><img src="https://cdn.hermesagents.net/public/images/hermes-avatar.png" width="50"><br><p>Hermes agent</p></td>
 	  <td><img src="https://fiqon.com.br/wp-content/uploads/2025/04/cloud-api.png" width="50"><br><p>CloudApi</p></td>
 	  <td><img src="https://fiqon.com.br/wp-content/uploads/2025/04/evolution-api-2.png" width="50"><br><p>EvolutionApi</p></td>
 	  <td><img src="https://propuskator.com/wp-content/uploads/2021/06/upravlenie-ustrojstvami-2smart-cloud-s-pomoshhyu-telegram-bota.png" width="50"><br><p>TelegramBot</p></td>
