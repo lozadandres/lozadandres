@@ -85,13 +85,10 @@
       <td><img src="https://skillicons.dev/icons?i=java" width="50"><br><p>Java</p></td>
       <td><img src="https://skillicons.dev/icons?i=nodejs" width="50"><br><p>Node.js</p></td>
       <td><img src="https://skillicons.dev/icons?i=express" width="50"><br><p>Express</p></td>
-      <td><img src="https://skillicons.dev/icons?i=sequelize" width="50"><br><p>Sequelize (ORM)</p></td>
-	  <td><img src="https://asset.jarombek.com/logos/mongoose.png" width="50"><br><p>Mongoose (ODM)</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=dotnet" width="50"><br><p>.Net 8</p></td>
 	  <td><img src="https://lirp.cdn-website.com/f8d3d5b2/dms3rep/multi/opt/NET_Core_Logo_1-1920w.png" width="50"><br><p>ASP.NET Core</p></td>
   </tr>
   <tr align="center">
-      <td><img src="https://portafolio-andresloz-66.vercel.app/sqllogo.png" width="50"><br><p>SQL</p></td>
 	  <td><img src="https://www.kognitos.com/wp-content/uploads/2025/05/Auth0_512x512-1.png" width="50"><br><p>Auth0 JWT</p></td>
 	  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="50"><br><p>Json</p></td>
   </tr>
@@ -100,8 +97,17 @@
 ### Databases
 <table>
   <tr align="center">
-     <td><img src="https://skillicons.dev/icons?i=postgres" width="50"><br><p>PostgreSQL</p></td>
-     <td><img src="https://skillicons.dev/icons?i=mongodb" width="50"><br><p>MongoDB</p></td>
+	  <td><img src="https://portafolio-andresloz-66.vercel.app/sqllogo.png" width="50"><br><p>SQL</p></td>
+      <td><img src="https://skillicons.dev/icons?i=postgres" width="50"><br><p>PostgreSQL</p></td>
+      <td><img src="https://skillicons.dev/icons?i=mongodb" width="50"><br><p>MongoDB</p></td>
+  </tr>
+</table> 
+
+### ORM/ ODM
+<table>
+  <tr align="center">
+      <td><img src="https://skillicons.dev/icons?i=sequelize" width="50"><br><p>Sequelize (ORM)</p></td>
+	  <td><img src="https://asset.jarombek.com/logos/mongoose.png" width="50"><br><p>Mongoose (ODM)</p></td>
   </tr>
 </table> 
 
