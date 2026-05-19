@@ -158,9 +158,9 @@
 <table>
   <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=vscode" width="50"><br><p>VS Code</p></td>
-	  <td><img src="https://assets-v2.circle.so/nyw21c6x1ehj10t919zb1x1vu01r" width="50"><br><p>Cursor AI</p>
+	  <td><img src="https://assets-v2.circle.so/nyw21c6x1ehj10t919zb1x1vu01r" width="50"><br><p>CursorAI</p>
       <td><img src="https://skillicons.dev/icons?i=idea" width="50"><br><p>Idea</p></td>
-      <td><img src="https://skillicons.dev/icons?i=pycharm" width="50"><br><p>pycharm</p></td>
+      <td><img src="https://skillicons.dev/icons?i=pycharm" width="50"><br><p>Pycharm</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=visualstudio" width="50"><br><p>Visual Studio</p></td>
 	  <td><img src="https://portafolio-andresloz-66.vercel.app/antigravity.png" width="50"><br><p>AntigravityAI</p></td>
 	  <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Traelogo.png" width="50"><br><p>TraeAI</p></td>
@@ -171,44 +171,44 @@
 	  <td><img src="https://opencode.ai/_build/assets/opencode-desktop-icon-OSkS5hfD.png" width="50"><br><p>OpenCode</p></td>
 	  <td><img src="https://img.halotool.com/icons/codex-by-openai_8d306254.png" width="50"><br><p>Codex</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=codepen" width="50"><br><p>codepen</p></td>
-	  <td><img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" width="50"><br><p>draw.io</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=codepen" width="50"><br><p>Codepen</p></td>
+	  <td><img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" width="50"><br><p>Drawio</p></td>
 	  <td><img src="https://cdn-1.webcatalog.io/catalog/lucidchart/lucidchart-icon.png" width="50"><br><p>Lucidchart</p></td>
 	  <td><img src="https://images.opencollective.com/drawdb/5252d15/logo/256.png" width="50"><br><p>Drawdb</p></td>
   </tr>
   <tr align="center">
 	  <td><img src="https://ph-files.imgix.net/1281dffc-89cc-4fc8-b3fe-9319d27af72e.png?auto=format" width="50"><br><p>Chat2DB</p></td>
 	  <td><img src="https://chartdb.mirea.dev/buckle.png" width="50"><br><p>ChartDB</p></td>
-      <td><img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="50"><br><p>xampp</p></td>
+      <td><img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="50"><br><p>Xampp</p></td>
       <td><img src="https://skillicons.dev/icons?i=powershell" width="50"><br><p>Powershell</p></td>
       <td><img src="https://skillicons.dev/icons?i=linux" width="50"><br><p>Linux</p></td>
-      <td><img src="https://skillicons.dev/icons?i=bash" width="50"><br><p>bash</p></td>
+      <td><img src="https://skillicons.dev/icons?i=bash" width="50"><br><p>Bash</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=notion" width="50"><br><p>Notion</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=git" width="50"><br><p>Git</p></td>
   </tr>
   <tr align="center">
 	  <td><img src="https://skillicons.dev/icons?i=github" width="50"><br><p>GitHub</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=obsidian" width="50"><br><p>obsidian</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=stackoverflow" width="50"><br><p>stackoverflow</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=obsidian" width="50"><br><p>Obsidian</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=stackoverflow" width="50"><br><p>Stackoverflow</p></td>
       <td><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="50"><br><p>Trello</p></td>
 	  <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/41/48/0941481d-5564-ccb1-ce82-3d19cffd73f0/Placeholder.mill/400x400bb-75.webp" width="50"><br><p>NotebookLM</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>npm</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=yarn" width="50"><br><p>yarn</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>NPM</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=yarn" width="50"><br><p>YARN</p></td>
 	  <td><img src="https://miro.medium.com/v2/resize:fit:256/1*CBCWQowzYqU83B0capCTQA.png" width="50"><br><p>Homebrew Mac</p></td>
   </tr>
   <tr align="center">
 	  <td><img src="https://www.apache.org/foundation/press/kit/feather.png" width="50"><br><p>Apache</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=nginx" width="50"><br><p>nginx</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=prometheus" width="50"><br><p>prometheus</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=grafana" width="50"><br><p>grafana</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=jenkins" width="50"><br><p>jenkins</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=nginx" width="50"><br><p>Nginx</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=prometheus" width="50"><br><p>Prometheus</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=grafana" width="50"><br><p>Grafana</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=jenkins" width="50"><br><p>Jenkins</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>Vite</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=redux" width="50"><br><p>Redux</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=pinia" width="50"><br><p>Pinia</p></td>
   </tr>
   <tr align="center">
 	  <td><img src="https://th.bing.com/th/id/R.329b4dc9e966505948975721c7ac159c?rik=g6YXHOp0CaAomg&riu=http%3a%2f%2fpic.962.net%2fup%2f2024-7%2f2024791010472701.png&ehk=L7B2%2fHa2ULBv9IIPHJX8nCwCOrnMYmhxzFR3nEbep98%3d&risl=&pid=ImgRaw&r=0" width="50"><br><p>Google PageSpeed</p>
-	 <td><img src="https://avatars.githubusercontent.com/u/301879?s=88&v=4" width="50"><br><p>Scalar API</p>
+	 <td><img src="https://avatars.githubusercontent.com/u/301879?s=88&v=4" width="50"><br><p>ScalarAPI</p>
 	 <td><img src="https://vectorseek.com/wp-content/uploads/2023/08/Swagger-Logo-Vector.svg-.png" width="50"><br><p>Swagger</p></td>
 	 <td><img src="https://www.metaexplorer.co/images/logo.png" width="50"><br><p>MetaExplorer</p>
 	 <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>Vercel / AI SDK</p></td>
@@ -237,7 +237,7 @@
 	  <td><img src="https://crystalpng.com/wp-content/uploads/2025/02/Qwen-06-768x768.png" width="50"><br><p>QwenAI</p></td>
   </tr>
   <tr align="center">
-	  <td><img src="https://mintcdn.com/zhipu-32152247/B_E8wI-eiNa1QlPV/logo/light.svg?fit=max&auto=format&n=B_E8wI-eiNa1QlPV&q=85&s=c1ecf1af358fa8eeab8c06052337f8f6" width="50"><br><p>zAI</p></td>
+	  <td><img src="https://mintcdn.com/zhipu-32152247/B_E8wI-eiNa1QlPV/logo/light.svg?fit=max&auto=format&n=B_E8wI-eiNa1QlPV&q=85&s=c1ecf1af358fa8eeab8c06052337f8f6" width="50"><br><p>GLMAI</p></td>
 	  <td><img src="https://m.media-amazon.com/images/I/516wN2fmJTL.png" width="50"><br><p>MiniMax</p></td>
 	  <td><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/82/e2/1a82e2f1-5cc7-e104-83ed-e75884ebc07a/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/1200x630bb.png" width="50"><br><p>CopilotAI</p></td>
 	  <td><img src="https://avatars.githubusercontent.com/u/139423088?s=280&v=4" width="50"><br><p>Openrouter</p></td>
@@ -260,10 +260,10 @@
 	  <td><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2890910c-866d-4a01-af6a-2067e1209024/dccphr2-017f4f0c-ffd9-45cd-aa68-9229f47e2563.png/v1/fill/w_520,h_520/virtualbox_icon_by_rengatv_dccphr2-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTIwIiwicGF0aCI6IlwvZlwvMjg5MDkxMGMtODY2ZC00YTAxLWFmNmEtMjA2N2UxMjA5MDI0XC9kY2NwaHIyLTAxN2Y0ZjBjLWZmZDktNDVjZC1hYTY4LTkyMjlmNDdlMjU2My5wbmciLCJ3aWR0aCI6Ijw9NTIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.XBNDilrFWYvcCw90mT2MZgwyZZqbryVn1sdA36Yoeic" width="50"><br><p>
 VirtualBox</p></td>
 	  <td><img src="https://www.boscdelacoma.cat/wp-content/uploads/2016/12/moodle.png" width="50"><br><p>Moodle</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=threejs" width="50"><br><p>threejs</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=threejs" width="50"><br><p>Threejs</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=docker" width="50"><br><p>Docker</p></td>
 	   <td><img src="https://skillicons.dev/icons?i=redis" width="50"><br><p>Redis</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=githubactions" width="50"><br><p>githubactions</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=githubactions" width="50"><br><p>Github Actions</p></td>
   </tr>
 </table>
 
