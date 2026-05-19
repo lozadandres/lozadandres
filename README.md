@@ -70,8 +70,8 @@
       <td><img src="https://skillicons.dev/icons?i=nextjs" width="50"><br><p>Next.js</p></td>
   </tr>
   <tr align="center">
-      <td><img src="https://skillicons.dev/icons?i=vue" width="50"><br><p>vue</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=nuxtjs" width="50"><br><p>nuxtjs</p></td>
+      <td><img src="https://skillicons.dev/icons?i=vue" width="50"><br><p>Vue</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=nuxtjs" width="50"><br><p>Nuxtjs</p></td>
 	  <td><img src="https://portafolio-andresloz-66.vercel.app/Blazor.png" width="85"><br><p>Blazor Server</p></td>
   </tr>
 </table>
