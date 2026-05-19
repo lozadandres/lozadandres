@@ -259,6 +259,7 @@
   <tr align="center">
 	  <td><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2890910c-866d-4a01-af6a-2067e1209024/dccphr2-017f4f0c-ffd9-45cd-aa68-9229f47e2563.png/v1/fill/w_520,h_520/virtualbox_icon_by_rengatv_dccphr2-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTIwIiwicGF0aCI6IlwvZlwvMjg5MDkxMGMtODY2ZC00YTAxLWFmNmEtMjA2N2UxMjA5MDI0XC9kY2NwaHIyLTAxN2Y0ZjBjLWZmZDktNDVjZC1hYTY4LTkyMjlmNDdlMjU2My5wbmciLCJ3aWR0aCI6Ijw9NTIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.XBNDilrFWYvcCw90mT2MZgwyZZqbryVn1sdA36Yoeic" width="50"><br><p>
 VirtualBox</p></td>
+	  <td><img src="https://www.boscdelacoma.cat/wp-content/uploads/2016/12/moodle.png" width="50"><br><p>Moodle</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=threejs" width="50"><br><p>threejs</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=docker" width="50"><br><p>Docker</p></td>
 	   <td><img src="https://skillicons.dev/icons?i=redis" width="50"><br><p>Redis</p></td>
