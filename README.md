@@ -262,8 +262,10 @@ VirtualBox</p></td>
 	  <td><img src="https://www.boscdelacoma.cat/wp-content/uploads/2016/12/moodle.png" width="50"><br><p>Moodle</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=threejs" width="50"><br><p>Threejs</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=docker" width="50"><br><p>Docker</p></td>
-	   <td><img src="https://skillicons.dev/icons?i=redis" width="50"><br><p>Redis</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=redis" width="50"><br><p>Redis</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=githubactions" width="50"><br><p>Github Actions</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=ubuntu" width="50"><br><p>Ubuntu</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=windows" width="50"><br><p>Redis</p></td>
   </tr>
 </table>
 
