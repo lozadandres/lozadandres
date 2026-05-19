@@ -45,7 +45,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
 <p>
-    Me especializo en dos ecosistemas principales: el entorno empresarial de <strong>.NET (C#, ASP.NET Core, Blazor Server)</strong> y el dinamismo de <strong>JavaScript/TypeScript (React, Next.js, Node.js)</strong>, utilizando bases de datos robustas como PostgreSQL y MongoDB. 
+    Me especializo en dos ecosistemas principales: el entorno empresarial de <strong>.NET (C#, ASP.NET Core, Blazor Server)</strong> y el dinamismo de <strong>JavaScript/TypeScript (React, Next.js, Node.js, Express)</strong>, utilizando bases de datos robustas como PostgreSQL y MongoDB. 
 </p>
 
 <p>
