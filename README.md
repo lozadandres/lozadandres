@@ -103,7 +103,7 @@
   </tr>
 </table> 
 
-### ORM/ ODM
+### ORM / ODM
 <table>
   <tr align="center">
       <td><img src="https://skillicons.dev/icons?i=sequelize" width="50"><br><p>Sequelize (ORM)</p></td>
