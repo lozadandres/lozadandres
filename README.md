@@ -129,6 +129,7 @@
 	 <td><img src="https://skillicons.dev/icons?i=netlify" width="50"><br><p>Netlify</p></td>
 	 <td><img src="https://getdeploying.com/static/img/logos/render.90ffa0f776b5.png" width="50"><br><p>Render</p></td>
 	 <td><img src="https://colinbate.com/img/develop-cheap/railway.png" width="50"><br><p>Railway</p></td>
+	 <td><img src="https://getdeploying.com/static/img/logos/heroku.0d352580b562.png" width="50"><br><p>Heroku</p></td>
   </tr>
 </table>
 
