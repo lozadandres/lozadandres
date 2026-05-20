@@ -122,6 +122,8 @@
 <table>
   <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=aws" width="50"><br><p>AWS</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=azure" width="50"><br><p>Azure</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=gcp" width="50"><br><p>GCP</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=cloudflare" width="50"><br><p>Cloudflare</p></td>
   </tr>
 </table>
