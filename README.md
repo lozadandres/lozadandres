@@ -133,7 +133,18 @@
 	 <td><img src="https://skillicons.dev/icons?i=gcp" width="50"><br><p>GCP</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=cloudflare" width="50"><br><p>Cloudflare</p></td>
 	 <td><img src="https://getdeploying.com/static/img/logos/hostinger.30aa448b7a04.png" width="50"><br><p>Hostinger VPS</p></td>
-	 <td><img src="https://skillicons.dev/icons?i=netlify" width="50"><br><p>Netlify</p></td>
+  </tr>
+</table>
+
+### Infrastructure & Deployment
+<table>
+  <tr align="center">
+	  <td><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2890910c-866d-4a01-af6a-2067e1209024/dccphr2-017f4f0c-ffd9-45cd-aa68-9229f47e2563.png/v1/fill/w_520,h_520/virtualbox_icon_by_rengatv_dccphr2-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTIwIiwicGF0aCI6IlwvZlwvMjg5MDkxMGMtODY2ZC00YTAxLWFmNmEtMjA2N2UxMjA5MDI0XC9kY2NwaHIyLTAxN2Y0ZjBjLWZmZDktNDVjZC1hYTY4LTkyMjlmNDdlMjU2My5wbmciLCJ3aWR0aCI6Ijw9NTIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.XBNDilrFWYvcCw90mT2MZgwyZZqbryVn1sdA36Yoeic" width="50"><br><p>
+VirtualBox</p></td>
+     <td><img src="https://skillicons.dev/icons?i=docker" width="50"><br><p>Docker</p></td>
+	  <td><img src="https://www.apache.org/foundation/press/kit/feather.png" width="50"><br><p>Apache</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=nginx" width="50"><br><p>Nginx</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=netlify" width="50"><br><p>Netlify</p></td>
 	 <td><img src="https://getdeploying.com/static/img/logos/render.90ffa0f776b5.png" width="50"><br><p>Render</p></td>
 	 <td><img src="https://colinbate.com/img/develop-cheap/railway.png" width="50"><br><p>Railway</p></td>
 	 <td><img src="https://getdeploying.com/static/img/logos/heroku.0d352580b562.png" width="50"><br><p>Heroku</p></td>
@@ -221,68 +232,64 @@
 	  <td><img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="50"><br><p>Xampp</p></td>
   </tr>
   <tr align="center">
-	  <td><img src="https://www.apache.org/foundation/press/kit/feather.png" width="50"><br><p>Apache</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=nginx" width="50"><br><p>Nginx</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=prometheus" width="50"><br><p>Prometheus</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=grafana" width="50"><br><p>Grafana</p></td>
 	  <td><img src="https://th.bing.com/th/id/R.329b4dc9e966505948975721c7ac159c?rik=g6YXHOp0CaAomg&riu=http%3a%2f%2fpic.962.net%2fup%2f2024-7%2f2024791010472701.png&ehk=L7B2%2fHa2ULBv9IIPHJX8nCwCOrnMYmhxzFR3nEbep98%3d&risl=&pid=ImgRaw&r=0" width="50"><br><p>Google PageSpeed</p>
 	 <td><img src="https://avatars.githubusercontent.com/u/301879?s=88&v=4" width="50"><br><p>ScalarAPI</p>
 	 <td><img src="https://vectorseek.com/wp-content/uploads/2023/08/Swagger-Logo-Vector.svg-.png" width="50"><br><p>Swagger</p></td>
 	 <td><img src="https://www.metaexplorer.co/images/logo.png" width="50"><br><p>MetaExplorer</p>
+	 <td><img src="https://images.seeklogo.com/logo-png/47/2/strapi-icon-logo-png_seeklogo-477947.png" width="50"><br><p>Strapi CMS</p></td>
+	 <td><img src="https://freelogopng.com/images/all_img/1685814539stripe-icon-png.png" width="50"><br><p>Stripe</p></td>
   </tr>
   <tr align="center">
+	  <td><img src="https://portafolio-andresloz-66.vercel.app/jules.png" width="80"><br><p>Jules</p></td>
+	  <td><img src="https://avatars.githubusercontent.com/u/183290039?s=280&v=4" width="80"><br><p>QodoAI</p></td>
+	  <td><img src="https://portafolio-andresloz-66.vercel.app/TestSprite.png" width="50"><br><p>TestSprite</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>Vercel / AI SDK</p></td>
-	  <td><img src="https://images.seeklogo.com/logo-png/47/2/strapi-icon-logo-png_seeklogo-477947.png" width="50"><br><p>Strapi CMS</p></td>
-	  <td><img src="https://freelogopng.com/images/all_img/1685814539stripe-icon-png.png" width="50"><br><p>Stripe</p></td>
 	  <td><img src="https://framerusercontent.com/images/dTPZHBNa8CveXe69PwcOLb363mM.png" width="50"><br><p>Tailscale</p></td>
 	  <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
 	  <td><img src="https://vectorseek.com/wp-content/uploads/2025/03/Huggingface-Logo-PNG-SVG-Vector.png" width="50"><br><p>Hugging face</p></td>
-	  <td><img src="https://portafolio-andresloz-66.vercel.app/jules.png" width="80"><br><p>Jules</p></td>
-	  <td><img src="https://avatars.githubusercontent.com/u/183290039?s=280&v=4" width="80"><br><p>QodoAI</p></td>
+	  <td><img src="https://developers.google.com/static/focus/images/ai-studio-icon.png" width="50"><br><p>GoogleAI Studio</p></td>
   </tr>
   <tr align="center">
-	  <td><img src="https://portafolio-andresloz-66.vercel.app/TestSprite.png" width="50"><br><p>TestSprite</p></td>
-	  <td><img src="https://developers.google.com/static/focus/images/ai-studio-icon.png" width="50"><br><p>GoogleAI Studio</p></td>
 	  <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>Gemini CLI</p></td>
 	  <td><img src="https://chatgptaihub.com/wp-content/uploads/2023/06/ChatGpt-Logo-with-Black-Background-768x768.png" width="50"><br><p>ChatgptAI</p></td>
 	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50"><br><p>ClaudeAI</p></td>
 	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-icon.png" width="50"><br><p>GrokAI</p></td>
 	  <td><img src="https://nelson.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcopilot.d56e4d15.png&w=640&q=100" width="50"><br><p>Github Copilot</p></td>
 	  <td><img src="https://lvshu-is-666.github.io/App/icon/Kimi.png" width="50"><br><p>KimiAI</p></td>
-  </tr>
-  <tr align="center">
 	  <td><img src="https://www.iconpacks.net/icons/free-icons-7/free-icon-deepseek-black-white-circle-round-symbol-25660.png" width="50"><br><p>DeepseekAI</p></td>
 	  <td><img src="https://theislamicinformation.com/wp-content/uploads/2025/09/gemini-icon.webp" width="50"><br><p>GeminiAI</p></td>
+  </tr>
+  <tr align="center">
 	  <td><img src="https://pp.myapp.com/ma_icon/0/icon_54318686_1730108540/256" width="50"><br><p>ErnieAI</p></td>
 	  <td><img src="https://crystalpng.com/wp-content/uploads/2025/02/Qwen-06-768x768.png" width="50"><br><p>QwenAI</p></td>
 	  <td><img src="https://mintcdn.com/zhipu-32152247/B_E8wI-eiNa1QlPV/logo/light.svg?fit=max&auto=format&n=B_E8wI-eiNa1QlPV&q=85&s=c1ecf1af358fa8eeab8c06052337f8f6" width="50"><br><p>GLMAI</p></td>
 	  <td><img src="https://m.media-amazon.com/images/I/516wN2fmJTL.png" width="50"><br><p>MiniMax</p></td>
 	  <td><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/82/e2/1a82e2f1-5cc7-e104-83ed-e75884ebc07a/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/1200x630bb.png" width="50"><br><p>CopilotAI</p></td>
 	  <td><img src="https://avatars.githubusercontent.com/u/139423088?s=280&v=4" width="50"><br><p>Openrouter</p></td>
-  </tr>
-  <tr align="center">
 	  <td><img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/180/h/180/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740053459852" width="50"><br><p>Ollama</p</td>
 	  <td><img src="https://lmstudio.ai/assets/android-chrome-512x512.png" width="50"><br><p>LMstudio</p></td>
+  </tr>
+  <tr align="center">
 	  <td><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/gemma-color.png" width="50"><br><p>Gemma</p></td>
 	  <td><img src="https://www.open-notebook.ai/hero.svg" width="50"><br><p>OpenNotebookLM</p></td>
 	  <td><img src="https://raw.githubusercontent.com/cometapi-dev/.github/main/assets/integrations/ragflow.png" width="50"><br><p>Ragflow</p></td>
 	  <td><img src="https://weaviate.io/img/site/W-logo-3d-shadow.png" width="50"><br><p>Weaviate Verba</p></td>
 	  <td><img src="https://openwebui.com/favicon.png" width="50"><br><p>Open WebUI</p></td>
 	  <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openclaw.png" width="50"><br><p>OpenClaw</p></td>
-  </tr>
-  <tr align="center">
 	  <td><img src="https://cdn.hermesagents.net/public/images/hermes-avatar.png" width="50"><br><p>Hermes agent</p></td>
 	  <td><img src="https://fiqon.com.br/wp-content/uploads/2025/04/cloud-api.png" width="50"><br><p>CloudApi</p></td>
-	  <td><img src="https://fiqon.com.br/wp-content/uploads/2025/04/evolution-api-2.png" width="50"><br><p>EvolutionApi</p></td>
-	  <td><img src="https://propuskator.com/wp-content/uploads/2021/06/upravlenie-ustrojstvami-2smart-cloud-s-pomoshhyu-telegram-bota.png" width="50"><br><p>TelegramBot</p></td>
-	  <td><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2890910c-866d-4a01-af6a-2067e1209024/dccphr2-017f4f0c-ffd9-45cd-aa68-9229f47e2563.png/v1/fill/w_520,h_520/virtualbox_icon_by_rengatv_dccphr2-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTIwIiwicGF0aCI6IlwvZlwvMjg5MDkxMGMtODY2ZC00YTAxLWFmNmEtMjA2N2UxMjA5MDI0XC9kY2NwaHIyLTAxN2Y0ZjBjLWZmZDktNDVjZC1hYTY4LTkyMjlmNDdlMjU2My5wbmciLCJ3aWR0aCI6Ijw9NTIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.XBNDilrFWYvcCw90mT2MZgwyZZqbryVn1sdA36Yoeic" width="50"><br><p>
-VirtualBox</p></td>
-	  <td><img src="https://www.boscdelacoma.cat/wp-content/uploads/2016/12/moodle.png" width="50"><br><p>Moodle</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=threejs" width="50"><br><p>Threejs</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=docker" width="50"><br><p>Docker</p></td>
   </tr>
   <tr align="center">
+	  <td><img src="https://fiqon.com.br/wp-content/uploads/2025/04/evolution-api-2.png" width="50"><br><p>EvolutionApi</p></td>
+	  <td><img src="https://propuskator.com/wp-content/uploads/2021/06/upravlenie-ustrojstvami-2smart-cloud-s-pomoshhyu-telegram-bota.png" width="50"><br><p>TelegramBot</p></td>
+	  <td><img src="https://www.boscdelacoma.cat/wp-content/uploads/2016/12/moodle.png" width="50"><br><p>Moodle</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=threejs" width="50"><br><p>Threejs</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=githubactions" width="50"><br><p>Github Actions</p></td>
+  </tr>
+  <tr align="center">
+	  
   </tr>
 </table>
 
