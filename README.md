@@ -127,6 +127,8 @@
 	 <td><img src="https://skillicons.dev/icons?i=cloudflare" width="50"><br><p>Cloudflare</p></td>
 	 <td><img src="https://getdeploying.com/static/img/logos/hostinger.30aa448b7a04.png" width="50"><br><p>Hostinger VPS</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=netlify" width="50"><br><p>Netlify</p></td>
+	 <td><img src="https://getdeploying.com/static/img/logos/render.90ffa0f776b5.png" width="50"><br><p>Render</p></td>
+	 <td><img src="https://colinbate.com/img/develop-cheap/railway.png" width="50"><br><p>Railway</p></td>
   </tr>
 </table>
 
