@@ -287,6 +287,7 @@ VirtualBox</p></td>
 	  <td><img src="https://www.boscdelacoma.cat/wp-content/uploads/2016/12/moodle.png" width="50"><br><p>Moodle</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=threejs" width="50"><br><p>Threejs</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=githubactions" width="50"><br><p>Github Actions</p></td>
+	  <td><img src="https://www.gstatic.com/images/branding/productlogos/labs_beaker_round/v2/192px.svg" width="50"><br><p>Google stitch</p></td>
   </tr>
   <tr align="center">
 	  
