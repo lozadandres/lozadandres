@@ -122,10 +122,11 @@
 <table>
   <tr align="center">
      <td><img src="https://skillicons.dev/icons?i=aws" width="50"><br><p>AWS</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=azure" width="50"><br><p>Azure</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=gcp" width="50"><br><p>GCP</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=azure" width="50"><br><p>Azure</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=gcp" width="50"><br><p>GCP</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=cloudflare" width="50"><br><p>Cloudflare</p></td>
-	  <td><img src="https://getdeploying.com/static/img/logos/hostinger.30aa448b7a04.png" width="50"><br><p>Hostinger VPS</p></td>
+	 <td><img src="https://getdeploying.com/static/img/logos/hostinger.30aa448b7a04.png" width="50"><br><p>Hostinger VPS</p></td>
+	 <td><img src="https://skillicons.dev/icons?i=netlify" width="50"><br><p>Netlify</p></td>
   </tr>
 </table>
 
