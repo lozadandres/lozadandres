@@ -335,7 +335,7 @@ VirtualBox</p></td>
       <h3 align="center">MathSolver AI - Asistente matemático V3</h3>
         <br />
         <a target="_blank" href="https://github.com/lozadandres/MathSolver_AI-V3">
-            <img src="https://github.com/lozadandres/MathSolver_AI-V3/blob/master/frontend/public/vistaDictadoPorVoz.png" width="100%" height="1000" alt="App"/>
+            <img src="https://raw.githubusercontent.com/lozadandres/MathSolver_AI-V3/refs/heads/master/frontend/public/ChatClase.jpeg" width="100%" height="1000" alt="App"/>
         </a>
         <br />
         <p align="center">
