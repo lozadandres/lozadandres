@@ -192,7 +192,7 @@ VirtualBox</p></td>
   <tr align="center">
 	  <td><img src="https://www.techspot.com/images2/downloads/topdownload/2025/05/2025-05-07-ts3_thumbs-d9f.png" width="50"><br><p>WindsurfAI</p></td>
 	  <td><img src="https://opencode.ai/_build/assets/opencode-desktop-icon-OSkS5hfD.png" width="50"><br><p>OpenCode</p></td>
-	  <td><img src="https://img.halotool.com/icons/codex-by-openai_8d306254.png" width="50"><br><p>Codex</p></td>
+	  <td><img src="https://ph-files.imgix.net/64f50b38-7e9e-47ca-b2e9-2939ff10431a.png?auto=format" width="50"><br><p>Codex</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=figma" width="50"><br><p>Figma</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=codepen" width="50"><br><p>Codepen</p></td>
 	  <td><img src="https://framerusercontent.com/images/veYGrfqG7Y57wZxSIY6Nr9XicMM.png" width="50"><br><p>Framer</p></td>
