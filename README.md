@@ -128,7 +128,6 @@
 ### Cloud Servers
 <table>
   <tr align="center">
-     <td><img src="https://skillicons.dev/icons?i=aws" width="50"><br><p>AWS</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=cloudflare" width="50"><br><p>Cloudflare</p></td>
 	 <td><img src="https://getdeploying.com/static/img/logos/hostinger.30aa448b7a04.png" width="50"><br><p>Hostinger VPS</p></td>
   </tr>
@@ -295,6 +294,7 @@ VirtualBox</p></td>
 ### Tecnologías y Herramientas en Aprendizaje
 <table>
   <tr align="center">
+	 <td><img src="https://skillicons.dev/icons?i=aws" width="50"><br><p>AWS</p></td>
      <td><img src="https://skillicons.dev/icons?i=androidstudio" width="50"><br><p>Android Studio</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=kotlin" width="50"><br><p>kotlin</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=graphql" width="50"><br><p>Graphql</p></td>
