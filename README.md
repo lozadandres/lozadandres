@@ -215,11 +215,10 @@ VirtualBox</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=npm" width="50"><br><p>NPM</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=yarn" width="50"><br><p>YARN</p></td>
 	  <td><img src="https://miro.medium.com/v2/resize:fit:256/1*CBCWQowzYqU83B0capCTQA.png" width="50"><br><p>Homebrew Mac</p></td>
-	  <td><img src="https://skillicons.dev/icons?i=jenkins" width="50"><br><p>Jenkins</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=vite" width="50"><br><p>Vite</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=redux" width="50"><br><p>Redux</p></td>
   </tr>
   <tr align="center">
-	  <td><img src="https://skillicons.dev/icons?i=redux" width="50"><br><p>Redux</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=pinia" width="50"><br><p>Pinia</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=obsidian" width="50"><br><p>Obsidian</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=stackoverflow" width="50"><br><p>Stackoverflow</p></td>
@@ -292,6 +291,7 @@ VirtualBox</p></td>
 ### Tecnologías y Herramientas en Aprendizaje
 <table>
   <tr align="center">
+	 <td><img src="https://skillicons.dev/icons?i=jenkins" width="50"><br><p>Jenkins</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=prometheus" width="50"><br><p>Prometheus</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=grafana" width="50"><br><p>Grafana</p></td>
 	 <td><img src="https://skillicons.dev/icons?i=aws" width="50"><br><p>AWS</p></td>
