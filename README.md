@@ -249,7 +249,7 @@ VirtualBox</p></td>
   </tr>
   <tr align="center">
 	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-icon.png" width="50"><br><p>GrokAI</p></td>
-	  <td><img src="https://nelson.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcopilot.d56e4d15.png&w=640&q=100" width="50"><br><p>Github Copilot</p></td>
+	  <td><img src="https://githubcopilot.cz/_astro/github-copilot-logo.Bk3UAgHT.png" width="50"><br><p>Github Copilot</p></td>
 	  <td><img src="https://lvshu-is-666.github.io/App/icon/Kimi.png" width="50"><br><p>KimiAI</p></td>
 	  <td><img src="https://www.iconpacks.net/icons/free-icons-7/free-icon-deepseek-black-white-circle-round-symbol-25660.png" width="50"><br><p>DeepseekAI</p></td>
 	  <td><img src="https://theislamicinformation.com/wp-content/uploads/2025/09/gemini-icon.webp" width="50"><br><p>GeminiAI</p></td>
