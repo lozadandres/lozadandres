@@ -245,10 +245,11 @@ VirtualBox</p></td>
 	  <td><img src="https://vectorseek.com/wp-content/uploads/2025/03/Huggingface-Logo-PNG-SVG-Vector.png" width="50"><br><p>Hugging face</p></td>
 	  <td><img src="https://www.gstatic.com/images/branding/productlogos/ai_studio/v1/web-512dp/logo_ai_studio_color_1x_web_512dp.png" width="50"><br><p>GoogleAI Studio</p></td>
 	  <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>AntigravityCLI</p></td>
-	  <td><img src="https://chatgptaihub.com/wp-content/uploads/2023/06/ChatGpt-Logo-with-Black-Background-768x768.png" width="50"><br><p>ChatgptAI</p></td>
-	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50"><br><p>ClaudeAI</p></td>
+	  <td><img src="https://avatars.githubusercontent.com/u/139423088?s=280&v=4" width="50"><br><p>Openrouter</p></td>
   </tr>
   <tr align="center">
+	  <td><img src="https://chatgptaihub.com/wp-content/uploads/2023/06/ChatGpt-Logo-with-Black-Background-768x768.png" width="50"><br><p>ChatgptAI</p></td>
+	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50"><br><p>ClaudeAI</p></td>
 	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-icon.png" width="50"><br><p>GrokAI</p></td>
 	  <td><img src="https://lvshu-is-666.github.io/App/icon/Kimi.png" width="50"><br><p>KimiAI</p></td>
 	  <td><img src="https://www.iconpacks.net/icons/free-icons-7/free-icon-deepseek-black-white-circle-round-symbol-25660.png" width="50"><br><p>DeepseekAI</p></td>
@@ -260,7 +261,6 @@ VirtualBox</p></td>
   <tr align="center">
 	  <td><img src="https://m.media-amazon.com/images/I/516wN2fmJTL.png" width="50"><br><p>MiniMax</p></td>
 	  <td><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/82/e2/1a82e2f1-5cc7-e104-83ed-e75884ebc07a/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/1200x630bb.png" width="50"><br><p>CopilotAI</p></td>
-	  <td><img src="https://avatars.githubusercontent.com/u/139423088?s=280&v=4" width="50"><br><p>Openrouter</p></td>
 	  <td><img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/180/h/180/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740053459852" width="50"><br><p>Ollama</p</td>
 	  <td><img src="https://lmstudio.ai/assets/android-chrome-512x512.png" width="50"><br><p>LMstudio</p></td>
 	  <td><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/gemma-color.png" width="50"><br><p>Gemma</p></td>
