@@ -183,7 +183,7 @@ VirtualBox</p></td>
       <td><img src="https://skillicons.dev/icons?i=idea" width="50"><br><p>Idea</p></td>
       <td><img src="https://skillicons.dev/icons?i=pycharm" width="50"><br><p>Pycharm</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=visualstudio" width="50"><br><p>Visual Studio</p></td>
-	  <td><img src="https://portafolio-andresloz-66.vercel.app/antigravity.png" width="50"><br><p>AntigravityAI</p></td>
+	  <td><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/5c9e95d70c9cb87bc2724867a8de9fc5_cRWVJNb.png" width="50"><br><p>AntigravityIDE</p></td>
 	  <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Traelogo.png" width="50"><br><p>TraeAI</p></td>
 	  <td><img src="https://raw.githubusercontent.com/kirodotdev/Kiro/refs/heads/main/assets/kiro-icon.png" width="50"><br><p>Kiro</p></td>
   </tr>
