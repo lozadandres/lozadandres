@@ -241,15 +241,15 @@ VirtualBox</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=vercel" width="50"><br><p>Vercel / AI SDK</p></td>
 	  <td><img src="https://framerusercontent.com/images/dTPZHBNa8CveXe69PwcOLb363mM.png" width="50"><br><p>Tailscale</p></td>
 	  <td><img src="https://portafolio-andresloz-66.vercel.app/ai.png" width="90"><br><p>AI</p></td>
+	  <td><img src="https://githubcopilot.cz/_astro/github-copilot-logo.Bk3UAgHT.png" width="50"><br><p>Github Copilot</p></td>
 	  <td><img src="https://vectorseek.com/wp-content/uploads/2025/03/Huggingface-Logo-PNG-SVG-Vector.png" width="50"><br><p>Hugging face</p></td>
 	  <td><img src="https://www.gstatic.com/images/branding/productlogos/ai_studio/v1/web-512dp/logo_ai_studio_color_1x_web_512dp.png" width="50"><br><p>GoogleAI Studio</p></td>
-	  <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>Gemini CLI</p></td>
+	  <td><img src="https://portafolio-andresloz-66.vercel.app/Gemini-Cli.png" width="80"><br><p>AntigravityCLI</p></td>
 	  <td><img src="https://chatgptaihub.com/wp-content/uploads/2023/06/ChatGpt-Logo-with-Black-Background-768x768.png" width="50"><br><p>ChatgptAI</p></td>
 	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50"><br><p>ClaudeAI</p></td>
   </tr>
   <tr align="center">
 	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-icon.png" width="50"><br><p>GrokAI</p></td>
-	  <td><img src="https://githubcopilot.cz/_astro/github-copilot-logo.Bk3UAgHT.png" width="50"><br><p>Github Copilot</p></td>
 	  <td><img src="https://lvshu-is-666.github.io/App/icon/Kimi.png" width="50"><br><p>KimiAI</p></td>
 	  <td><img src="https://www.iconpacks.net/icons/free-icons-7/free-icon-deepseek-black-white-circle-round-symbol-25660.png" width="50"><br><p>DeepseekAI</p></td>
 	  <td><img src="https://theislamicinformation.com/wp-content/uploads/2025/09/gemini-icon.webp" width="50"><br><p>GeminiAI</p></td>
