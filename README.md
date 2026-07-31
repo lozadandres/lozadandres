@@ -35,21 +35,21 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 <p>
-    ¡Hola! Mi nombre es <strong>Andrés Felipe Lozada Manzano</strong>. Soy un Desarrollador Full-Stack apasionado por la arquitectura limpia, el diseño de sistemas eficientes y la creación de interfaces intuitivas que transforman ideas complejas en productos digitales de alto impacto. 
+    ¡Hola! Soy Andrés Felipe Lozada Manzano, Full Stack Software Developer con experiencia en el desarrollo de aplicaciones web, arquitectura de software e integración de Inteligencia Artificial en productos digitales. Mi experiencia combina proyectos desarrollados en entornos corporativos de producción con más de dos años de desarrollo independiente, participando en todo el ciclo de vida del software: análisis de requerimientos, modelado, diseño, desarrollo, pruebas, despliegue y mantenimiento. 
 </p>
 
 <p>
-    Mi trayectoria equilibra la rigurosidad de entornos corporativos en producción con más de 2 años de desarrollo independiente, experiencia que me ha permitido asumir el ciclo de vida completo del software: desde la conceptualización y el modelado lógico (UML, POO) hasta el despliegue y la optimización. Cuento con un título de Técnico en Sistemas y una sólida formación en desarrollo de software, lo que impulsa mi capacidad para resolver problemas complejos de manera autónoma y colaborar eficientemente en equipos ágiles.
+   Me especializo en dos ecosistemas principales: JavaScript/TypeScript (React, Next.js, Node.js y Express) y .NET (C#, ASP.NET Core y Blazor), construyendo aplicaciones escalables respaldadas por PostgreSQL, MongoDB y Supabase. Aplico principios de arquitectura de software, Programación Orientada a Objetos (POO), patrones de diseño y buenas prácticas de ingeniería para desarrollar soluciones mantenibles y orientadas al negocio.
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
 <p>
-    Me especializo en dos ecosistemas principales: el entorno empresarial de <strong>.NET (C#, ASP.NET Core, Blazor Server)</strong> y el dinamismo de <strong>JavaScript/TypeScript (React, Next.js, Node.js, Express)</strong>, utilizando bases de datos robustas como PostgreSQL y MongoDB. 
+    En los últimos proyectos he integrado capacidades de Inteligencia Artificial mediante LLMs, RAG, MCP (Model Context Protocol), Agentic AI y arquitecturas Multi-Agente, desarrollando asistentes inteligentes, automatización de procesos e integraciones con servicios externos para optimizar operaciones empresariales. 
 </p>
 
 <p>
-    Además, soy un firme creyente del desarrollo aumentado por tecnología: diseño e integro soluciones avanzadas de <strong>Inteligencia Artificial (arquitecturas RAG, orquestación de agentes autónomos y LLMs)</strong> para optimizar procesos y llevar las aplicaciones al siguiente nivel de innovación. Mi objetivo es seguir construyendo software que no solo cumpla con los requerimientos, sino que marque una diferencia significativa en el ecosistema digital.
+    Actualmente continúo fortaleciendo mis conocimientos en System Design, AI Engineering, Backend Architecture y Software Architecture, con el objetivo de diseñar soluciones escalables, seguras y preparadas para entornos de producción.
 </p>
 
 <h2 font-weight="bold"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture>𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
