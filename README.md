@@ -418,7 +418,7 @@ VirtualBox</p></td>
         <a target="_blank" href="https://github.com/lozadandres/Ecomerce_Game-V3">
             <img src="https://github.com/lozadandres/Ecomerce_Game-V3/blob/main/frontend/public/catalogo.jpeg" width="100%" height="500" alt="App"/>
         </a>
-	    <h3 align="center">E-commerce con PostgreSQL, React e Inteligencia Artifical</h3>
+	    <h3 align="center">E-commerce Game V3 – Plataforma Full Stack con IA</h3>
         <br />
         <p align="center">
 		<a href="https://github.com/lozadandres/Ecomerce_Game-V3" target="_blank">
