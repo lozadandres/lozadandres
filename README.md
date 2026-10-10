@@ -262,7 +262,7 @@ VirtualBox</p></td>
 	  <td><img src="https://www.iconpacks.net/icons/free-icons-7/free-icon-deepseek-black-white-circle-round-symbol-25660.png" width="50"><br><p>DeepseekAI</p></td>
 	  <td><img src="https://guidady.com/wp-content/uploads/2023/07/56ea1849-1284-4645-8970-956de6e51c3c.png" width="50"><br><p>Ollama</p</td>
 	  <td><img src="https://lmstudio.ai/assets/android-chrome-512x512.png" width="50"><br><p>LMstudio</p></td>
-	  <td><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/gemma-color.png" width="50"><br><p>Gemma</p></td>
+	  <td><img src="https://static.vecteezy.com/system/resources/previews/077/736/426/large_2x/google-gemma-ai-icon-on-a-transparent-background-free-png.png" width="50"><br><p>Gemma</p></td>
 	  <td><img src="https://www.open-notebook.ai/hero.svg" width="50"><br><p>OpenNotebookLM</p></td>
 	  <td><img src="https://raw.githubusercontent.com/cometapi-dev/.github/main/assets/integrations/ragflow.png" width="50"><br><p>Ragflow</p></td>
 	  <td><img src="https://weaviate.io/img/site/W-logo-3d-shadow.png" width="50"><br><p>Weaviate Verba</p></td>
