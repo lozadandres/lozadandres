@@ -253,12 +253,11 @@ VirtualBox</p></td>
 	  <td><img src="https://lvshu-is-666.github.io/App/icon/Kimi.png" width="50"><br><p>KimiAI</p></td>
 	  <td><img src="https://mintcdn.com/zhipu-32152247/B_E8wI-eiNa1QlPV/logo/light.svg?fit=max&auto=format&n=B_E8wI-eiNa1QlPV&q=85&s=c1ecf1af358fa8eeab8c06052337f8f6" width="50"><br><p>GLMAI</p></td>
 	  <td><img src="https://theislamicinformation.com/wp-content/uploads/2025/09/gemini-icon.webp" width="50"><br><p>GeminiAI</p></td>
-	  <td><img src="https://pp.myapp.com/ma_icon/0/icon_54318686_1730108540/256" width="50"><br><p>ErnieAI</p></td>
 	  <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50"><br><p>ClaudeAI</p></td>
 	  <td><img src="https://m.media-amazon.com/images/I/516wN2fmJTL.png" width="50"><br><p>MiniMax</p></td>
+	  <td><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/82/e2/1a82e2f1-5cc7-e104-83ed-e75884ebc07a/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/1200x630bb.png" width="50"><br><p>CopilotAI</p></td>
   </tr>
   <tr align="center">
-	  <td><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/82/e2/1a82e2f1-5cc7-e104-83ed-e75884ebc07a/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/1200x630bb.png" width="50"><br><p>CopilotAI</p></td>
 	  <td><img src="https://crystalpng.com/wp-content/uploads/2025/02/Qwen-06-768x768.png" width="50"><br><p>QwenAI</p></td>
 	  <td><img src="https://www.iconpacks.net/icons/free-icons-7/free-icon-deepseek-black-white-circle-round-symbol-25660.png" width="50"><br><p>DeepseekAI</p></td>
 	  <td><img src="https://guidady.com/wp-content/uploads/2023/07/56ea1849-1284-4645-8970-956de6e51c3c.png" width="50"><br><p>Ollama</p</td>
@@ -266,9 +265,9 @@ VirtualBox</p></td>
 	  <td><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/gemma-color.png" width="50"><br><p>Gemma</p></td>
 	  <td><img src="https://www.open-notebook.ai/hero.svg" width="50"><br><p>OpenNotebookLM</p></td>
 	  <td><img src="https://raw.githubusercontent.com/cometapi-dev/.github/main/assets/integrations/ragflow.png" width="50"><br><p>Ragflow</p></td>
+	  <td><img src="https://weaviate.io/img/site/W-logo-3d-shadow.png" width="50"><br><p>Weaviate Verba</p></td>
   </tr>
   <tr align="center">
-	  <td><img src="https://weaviate.io/img/site/W-logo-3d-shadow.png" width="50"><br><p>Weaviate Verba</p></td>
 	  <td><img src="https://openwebui.com/favicon.png" width="50"><br><p>Open WebUI</p></td>
 	  <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openclaw.png" width="50"><br><p>OpenClaw</p></td>
 	  <td><img src="https://cdn.hermesagents.net/public/images/hermes-avatar.png" width="50"><br><p>Hermes agent</p></td>
@@ -276,9 +275,9 @@ VirtualBox</p></td>
 	   <td><img src="https://fiqon.com.br/wp-content/uploads/2025/04/evolution-api-2.png" width="50"><br><p>EvolutionApi</p></td>
 	  <td><img src="https://propuskator.com/wp-content/uploads/2021/06/upravlenie-ustrojstvami-2smart-cloud-s-pomoshhyu-telegram-bota.png" width="50"><br><p>TelegramBot</p></td>
 	  <td><img src="https://www.boscdelacoma.cat/wp-content/uploads/2016/12/moodle.png" width="50"><br><p>Moodle</p></td>
+	  <td><img src="https://skillicons.dev/icons?i=threejs" width="50"><br><p>Threejs</p></td>
   </tr>
   <tr align="center">
-	  <td><img src="https://skillicons.dev/icons?i=threejs" width="50"><br><p>Threejs</p></td>
 	  <td><img src="https://skillicons.dev/icons?i=githubactions" width="50"><br><p>Github Actions</p></td>
 	  <td><img src="https://www.gstatic.com/images/branding/productlogos/labs_beaker_round/v2/192px.svg" width="50"><br><p>Google stitch</p></td>
   </tr>
