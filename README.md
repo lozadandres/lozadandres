@@ -261,7 +261,7 @@ VirtualBox</p></td>
 	  <td><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/82/e2/1a82e2f1-5cc7-e104-83ed-e75884ebc07a/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/1200x630bb.png" width="50"><br><p>CopilotAI</p></td>
 	  <td><img src="https://crystalpng.com/wp-content/uploads/2025/02/Qwen-06-768x768.png" width="50"><br><p>QwenAI</p></td>
 	  <td><img src="https://www.iconpacks.net/icons/free-icons-7/free-icon-deepseek-black-white-circle-round-symbol-25660.png" width="50"><br><p>DeepseekAI</p></td>
-	  <td><img src="https://cdn.brandfetch.io/idrRDmZ2_F/w/180/h/180/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740053459852" width="50"><br><p>Ollama</p</td>
+	  <td><img src="https://guidady.com/wp-content/uploads/2023/07/56ea1849-1284-4645-8970-956de6e51c3c.png" width="50"><br><p>Ollama</p</td>
 	  <td><img src="https://lmstudio.ai/assets/android-chrome-512x512.png" width="50"><br><p>LMstudio</p></td>
 	  <td><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/gemma-color.png" width="50"><br><p>Gemma</p></td>
 	  <td><img src="https://www.open-notebook.ai/hero.svg" width="50"><br><p>OpenNotebookLM</p></td>
